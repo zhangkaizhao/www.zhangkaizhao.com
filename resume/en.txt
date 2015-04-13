@@ -1,0 +1,121 @@
+﻿Name: Kaizhao Zhang
+Gender: Male
+Birthplace: Puning city, Guangdong province, China
+Residence: Guangzhou city, Guangdong province, China
+Mobile: 086-13502460825
+E-mail: zhangkaizhao@gmail.com
+
+Job objective
+-------------
+
+Developer
+
+Summary
+-------
+
+Graduated from the South China University of Technology in Mechanical
+Engineering and Automation in 2005. As a mechanical engineer especially
+equipment engineer for about three years. Then begin to be a computer
+programmer in 2008. Mainly using Python language in web development(front end,
+back end), skilled working in GNU/Linux distribution environment.
+
+Work experience
+---------------
+
+- 2014,06 ~ 2014,12：Guangdong Caihui Technologies Co.,Ltd. (Guangzhou)
+  Senior Development Engineer
+
+  Working on development of internet lottery purcharsing agent system.
+
+  Using Python language. Using Flask/SQLAlchemy, etc.
+
+- May,2011 - Jan,2014: Guangzhou Farcloud Network Technologies Co.,Ltd.
+  (Guangzhou) Developer
+
+  Early days, working on development(generating and accessing the preview
+  and thumbnails images and metadata of various files including image files/
+  PDF files/Office files/audio files/video files/text files. pushing files
+  to Dropbox/Google Drive/SkyDrive/Jinshan Kuaipan/Kanbox. etc.) and
+  maintenance(service API, etc.) of Syncbox webserver, maintenance of Syncbox
+  Client for Linux, and maintenance of related DDNS server and client. etc.
+
+  Later period, as the author of public web application for WIT-FII Router(
+  Account/Router management, service API, web gateway service, online shop(
+  including the integration of Alipay create_direct_pay_by_user payment API),
+  etc), and the developer of Desktop Client for WIT-FII Router, etc. (Note: 
+  WIT-FII Router product has not been published to public yet.)
+
+  Using Python language.
+  Early days using Tornado/Kyoto Cabinet/Berkeley DB, etc.
+  Later period using gevent/WebOb/Jinja2/WTForms/SQLAlchemy/Redis/PyQt5, etc.
+
+- May,2010 - May,2011: Guangzhou G4B Technologies Co.,Ltd. (Guangzhou)
+  Developer
+
+  Working on autoupdate server developement.
+  File synchronization server and client prototype development.
+  Ubuntu Server and other work related software management.
+
+  Using Python language.
+
+- Sep,2008 - Dec,2009: Zopen Technologies Co.,Ltd. (Guangzhou) Developer
+
+  Working on front-end and back-end development of everydo products.
+  Ubuntu server deployment, etc.
+
+  Using Python language and Zope 3, etc.
+
+- Apr,2006 - Jul,2008: Shantou Goworld Display Co.,Ltd. (Shantou)
+  Equipment Engineer
+
+  Production machines maintenance.
+  Design and repair fixtures of the machines, etc.
+
+  Using repair tools and AutoCAD/SolidWorks design tools, etc.
+
+Education
+---------
+
+- Sep,2001 - Jul,2005: South China University of Technology
+
+  Bachelor of engineering
+  Mechanical Engineering and Automatizaion
+
+- Sep,1998 - Jul,2001: Shantou Jinshan School
+
+  Senior high school
+
+- Sep,1995 - Jul,1998: Puning Hongye School
+
+  Junior high school
+
+Skills
+------
+
+- Python language and Python standard library, third party libraries,
+  web frameworks and servers.
+- GNU/Linux. e.g. Debian/Ubuntu, Fedora, Arch Linux, Gentoo, etc
+- Vim
+- Git
+- HTML, CSS, JavaScript, etc
+
+Links
+-----
+
+Working related
+
+- http://www.clt500.com
+- https://www.witfii.com/index.html
+- http://www.isyncbox.com
+- http://www.everydo.com
+- ...
+
+Personal related
+
+- https://bitbucket.org/zhangkaizhao
+- https://github.com/metalman
+- http://www.douban.com/people/halfcool/
+- https://www.linkedin.com/in/zhangkaizhao
+
+--  
+Last modified on Mar,17,2015
