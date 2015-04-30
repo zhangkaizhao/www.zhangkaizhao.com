@@ -1,0 +1,203 @@
+﻿中文简历
+=============
+
+张凯朝（男）
+出生年月：1982年5月
+出生地点：广东省普宁市
+现居住地：广东省广州市
+移动电话：13502460825
+E-mail：zhangkaizhao@gmail.com
+
+求职意向
+------------
+
+包括并不局限于：研发工程师、高级研发工程师
+包括并不局限于：广州、深圳、汕头、揭阳、普宁
+
+职业概述
+-----------
+
+自 2005 年毕业于华南理工大学机械工程及自动化专业，从事机械行业特别是设备工程师工作大概三年，于 2008 年开始转向计算机程序设计工作，主要使用 Python 语言从事 web 开发（前端、后台），熟练工作于 GNU/Linux 发行版环境下。
+
+工作经历
+------------
+
+- 2014,06 ~ 2014,12：广东彩惠智能科技有限公司 （广州）
+  高级开发工程师
+
+  主要负责互联网彩票代购系统的后台开发。
+
+  主要使用 Python 语言，使用 Flask/SQLAlchemy 等。
+
+- 2011,05 ~ 2014,01：广州远云网络科技有限公司 （广州）
+  开发工程师
+
+  前期主要负责 Syncbox 产品的 webserver 后台的开发（各种文件包括图片文件/PDF 文件/Office文档/音频文件/视频文件/文本文件等的预览图/缩略图的获取/生成/存取及其元数据的获取，推送文件到 Dropbox/Google Drive/SkyDrive/金山快盘/酷盘，等等）和维护（服务接口等），Syncbox 产品 Linux 客户端的维护，以及相应的 DDNS 服务器端和客户端的后期维护。
+
+  后期主要负责路由器产品 WIT-FII 公共网站的架构及实现（账户及路由器管理、服务接口、中转服务、在线商店（包括支付宝即时到帐接口）等），路由器产品桌面客户端的开发。（注：路由器产品 WIT-FII 尚未对外公开发售及使用。）
+
+  主要使用 Python 语言，前期主要使用 Tornado/Kyoto Cabinet/Berkeley DB 等，后期主要使用 gevent/WebOb/Jinja2/WTForms/SQLAlchemy/Redis/PyQt5 等。
+
+- 2010,05 ~ 2011,05：广州网融网络技术有限公司 （广州）
+  开发工程师
+
+  主要负责自动升级后台开发（基于 Google Omaha 项目），文件同步服务端及客户端的原型开发，服务器及其他工作、项目相关程序的部署管理等。
+
+  主要使用 Python 语言。
+
+- 2008,09 ~ 2009,12：上海润普网络信息技术有限责任公司 （广州）
+  开发工程师
+
+  主要参与 everydo 各产品的前端和后台开发，协助产品的部署和运营等。
+
+  主要使用 Python 语言和 Zope 3 。
+
+- 2006,04 ~ 2008,07：汕头超声显示器有限公司 （汕头）
+  设备工程师
+
+  维护维修的各种生产设备，设计和完善各种相关配件、夹具等。
+
+  主要使用设备维护维修工具以及 AutoCAD/SolidWorks 等设计工具。
+
+工作能力
+------------
+
+- 熟练掌握 Python 语言及其标准库和常见的 Python 第三方库、开发框架及服务器等
+- 熟悉 GNU/Linux 环境，特别是 Debian/Ubuntu, Fedora, Arch Linux, Gentoo, 等
+- 熟练使用 Vim 等工具进行开发
+- 比较熟悉 Git
+- HTML, CSS, JavaScript 等
+
+教育经历
+------------
+
+- 2001/09-2005/07：华南理工大学  本科  机械工程及自动化  工学学士
+- 1998/09-2001/07：汕头市金山中学  高中
+- 1995/09-1998/07：普宁市洪冶中学  初中
+
+链接
+------------
+
+工作相关
+
+- http://www.clt500.com
+- https://www.witfii.com/index.html
+- http://www.syncbox.cn
+- http://www.everydo.com
+- ...
+
+个人相关
+
+- https://bitbucket.org/zhangkaizhao
+- https://github.com/metalman
+- http://www.douban.com/people/halfcool/
+- https://www.linkedin.com/in/zhangkaizhao
+
+--  
+最后编辑于 2015年04月20日
+
+
+ENGLISH RESUME
+==============
+
+Name: Kaizhao Zhang
+Gender: Male
+Birthplace: Puning city, Guangdong province, China
+Residence: Guangzhou city, Guangdong province, China
+Mobile: 086-13502460825
+E-mail: zhangkaizhao@gmail.com
+
+Job objective
+-------------
+
+Including but not limited to: Developer Engineer, Senior Development Engineer
+Including but not limited to: Guangzhou, Shenzhen, Shantou, Jieyang, Puning
+
+Summary
+-------
+
+Graduated from the South China University of Technology in Mechanical Engineering and Automation in 2005. As a mechanical engineer especially equipment engineer for about three years. Then begin to be a computer programmer in 2008. Mainly using Python language in web development(front end, back end), skilled working in GNU/Linux distribution environment.
+
+Work experience
+---------------
+
+- 2014,06 ~ 2014,12：Guangdong Caihui Technologies Co.,Ltd. (Guangzhou)
+  Senior Development Engineer
+
+  Working on development of internet lottery purcharsing agent system.
+
+  Using Python language. Using Flask/SQLAlchemy, etc.
+
+- May,2011 - Jan,2014: Guangzhou Farcloud Network Technologies Co.,Ltd. (Guangzhou)
+  Development Engineer
+
+  Early days, working on development(generating and accessing the preview and thumbnails images and metadata of various files including image files/PDF files/Office files/audio files/video files/text files. pushing files to Dropbox/Google Drive/SkyDrive/Jinshan Kuaipan/Kanbox. etc.) and maintenance(service API, etc.) of Syncbox webserver, maintenance of Syncbox Client for Linux, and maintenance of related DDNS server and client. etc.
+
+  Later period, as the author of public web application for WIT-FII Router(Account/Router management, service API, web gateway service, online shop(including the integration of Alipay create_direct_pay_by_user payment API), etc), and the developer of Desktop Client for WIT-FII Router, etc. (Note: WIT-FII Router product has not been published to public yet.)
+
+  Using Python language. Early days using Tornado/Kyoto Cabinet/Berkeley DB, etc. Later period using gevent/WebOb/Jinja2/WTForms/SQLAlchemy/Redis/PyQt5, etc.
+
+- May,2010 - May,2011: Guangzhou G4B Technologies Co.,Ltd. (Guangzhou)
+  Development Engineer
+
+  Working on autoupdate server developement. File synchronization server and client prototype development. Ubuntu Server and other work related software management.
+
+  Using Python language.
+
+- Sep,2008 - Dec,2009: Zopen Technologies Co.,Ltd. (Guangzhou)
+  Development Engineer
+
+  Working on front-end and back-end development of everydo products. Ubuntu server deployment, etc.
+
+  Using Python language and Zope 3, etc.
+
+- Apr,2006 - Jul,2008: Shantou Goworld Display Co.,Ltd. (Shantou)
+  Equipment Engineer
+
+  Production machines maintenance. Design and repair fixtures of the machines, etc.
+
+  Using repair tools and AutoCAD/SolidWorks design tools, etc.
+
+Education
+---------
+
+- Sep,2001 - Jul,2005: South China University of Technology
+  Bachelor of engineering
+  Mechanical Engineering and Automatizaion
+
+- Sep,1998 - Jul,2001: Shantou Jinshan School
+  Senior high school
+
+- Sep,1995 - Jul,1998: Puning Hongye School
+  Junior high school
+
+Skills
+------
+
+- Python language and Python standard library, third party libraries, web frameworks and servers
+- GNU/Linux. e.g. Debian/Ubuntu, Fedora, Arch Linux, Gentoo, etc
+- Vim
+- Git
+- HTML, CSS, JavaScript, etc
+
+Links
+-----
+
+Working related
+
+- http://www.clt500.com
+- https://www.witfii.com/index.html
+- http://www.isyncbox.com
+- http://www.everydo.com
+- ...
+
+Personal related
+
+- https://bitbucket.org/zhangkaizhao
+- https://github.com/metalman
+- http://www.douban.com/people/halfcool/
+- https://www.linkedin.com/in/zhangkaizhao
+
+--  
+Last modified on Apr.30,2015
+

@@ -42,7 +42,8 @@ Work experience
 
   Using Python language.
 
-- Sep,2008 - Dec,2009: Zopen Technologies Co.,Ltd. (Guangzhou) Development Engineer
+- Sep,2008 - Dec,2009: Zopen Technologies Co.,Ltd. (Guangzhou)
+  Development Engineer
 
   Working on front-end and back-end development of everydo products. Ubuntu server deployment, etc.
 
@@ -59,16 +60,13 @@ Education
 ---------
 
 - Sep,2001 - Jul,2005: South China University of Technology
-
   Bachelor of engineering
   Mechanical Engineering and Automatizaion
 
 - Sep,1998 - Jul,2001: Shantou Jinshan School
-
   Senior high school
 
 - Sep,1995 - Jul,1998: Puning Hongye School
-
   Junior high school
 
 Skills
@@ -99,5 +97,5 @@ Personal related
 - https://www.linkedin.com/in/zhangkaizhao
 
 --  
-Last modified on Apr.20,2015
+Last modified on Apr.30,2015
 
