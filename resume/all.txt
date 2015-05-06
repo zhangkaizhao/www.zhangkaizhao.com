@@ -1,5 +1,5 @@
 ﻿中文简历
-=============
+===========
 
 张凯朝（男）
 出生年月：1982年5月
@@ -23,50 +23,34 @@ E-mail：zhangkaizhao@gmail.com
 ------------
 
 - 2014,06 ~ 2014,12：广东彩惠智能科技有限公司 （广州）
-  高级开发工程师
-
-  主要负责互联网彩票代购系统的后台开发。
-
-  主要使用 Python 语言，使用 Flask/SQLAlchemy 等。
+  职位：高级开发工程师
+  工作内容：主要负责互联网彩票代购系统（彩乐透项目）的后台开发。
 
 - 2011,05 ~ 2014,01：广州远云网络科技有限公司 （广州）
-  开发工程师
-
-  前期主要负责 Syncbox 产品的 webserver 后台的开发（各种文件包括图片文件/PDF 文件/Office文档/音频文件/视频文件/文本文件等的预览图/缩略图的获取/生成/存取及其元数据的获取，推送文件到 Dropbox/Google Drive/SkyDrive/金山快盘/酷盘，等等）和维护（服务接口等），Syncbox 产品 Linux 客户端的维护，以及相应的 DDNS 服务器端和客户端的后期维护。
-
-  后期主要负责路由器产品 WIT-FII 公共网站的架构及实现（账户及路由器管理、服务接口、中转服务、在线商店（包括支付宝即时到帐接口）等），路由器产品桌面客户端的开发。（注：路由器产品 WIT-FII 尚未对外公开发售及使用。）
-
-  主要使用 Python 语言，前期主要使用 Tornado/Kyoto Cabinet/Berkeley DB 等，后期主要使用 gevent/WebOb/Jinja2/WTForms/SQLAlchemy/Redis/PyQt5 等。
+  职位：开发工程师
+  工作内容：前期主要负责 Syncbox 产品的 webserver 后台的开发和维护，Syncbox 产品 Linux 客户端的维护，以及相应的 DDNS 服务器端和客户端的后期维护。后期主要负责路由器产品 WIT-FII 公共网站的架构及实现，路由器产品桌面客户端的开发。
 
 - 2010,05 ~ 2011,05：广州网融网络技术有限公司 （广州）
-  开发工程师
-
-  主要负责自动升级后台开发（基于 Google Omaha 项目），文件同步服务端及客户端的原型开发，服务器及其他工作、项目相关程序的部署管理等。
-
-  主要使用 Python 语言。
+  职位：开发工程师
+  工作内容：主要负责自动升级后台（基于 Google Omaha 项目）开发，文件同步服务端及客户端的原型开发，服务器及其他工作、项目相关程序的部署管理等。主要使用 Python 语言，主要使用 Tornado/wxPython 等。
 
 - 2008,09 ~ 2009,12：上海润普网络信息技术有限责任公司 （广州）
-  开发工程师
-
-  主要参与 everydo 各产品的前端和后台开发，协助产品的部署和运营等。
-
-  主要使用 Python 语言和 Zope 3 。
+  职位：开发工程师
+  工作内容：主要参与 everydo 各产品的前端和后台开发，协助产品的部署和运营等。主要使用 Python 和 Zope 3 。
 
 - 2006,04 ~ 2008,07：汕头超声显示器有限公司 （汕头）
-  设备工程师
-
-  维护维修的各种生产设备，设计和完善各种相关配件、夹具等。
-
-  主要使用设备维护维修工具以及 AutoCAD/SolidWorks 等设计工具。
+  职位：设备工程师
+  工作内容：维护维修的各种生产设备，设计和完善各种相关配件、夹具等。主要使用设备维护维修工具以及 AutoCAD/SolidWorks 等设计工具。
 
 工作能力
 ------------
 
 - 熟练掌握 Python 语言及其标准库和常见的 Python 第三方库、开发框架及服务器等
 - 熟悉 GNU/Linux 环境，特别是 Debian/Ubuntu, Fedora, Arch Linux, Gentoo, 等
+- 比较熟悉 MySQL 关系型数据库，和 Redis 等 key-value 缓存和存储
 - 熟练使用 Vim 等工具进行开发
-- 比较熟悉 Git
-- HTML, CSS, JavaScript 等
+- 比较熟悉 Git 等版本控制系统
+- HTML, CSS, JavaScript 等前端开发技术
 
 教育经历
 ------------
@@ -75,8 +59,47 @@ E-mail：zhangkaizhao@gmail.com
 - 1998/09-2001/07：汕头市金山中学  高中
 - 1995/09-1998/07：普宁市洪冶中学  初中
 
+语言能力
+------------
+
+- 英语：CET4
+- 普通话：良好
+- 潮州话：母语
+
+项目经验
+------------
+
+- 2014,06 ~ 2014,12：彩乐透
+  公司：广东彩惠智能科技有限公司
+  职务：主程
+  描述：互联网彩票代购系统。
+  职责：后台开发。
+  业绩：增加各种新功能比如虚拟货币体系、在线活动等，完善已有功能比如提款、下单支付、出票流程、后台各种管理功能等，改善系统架构、代码质量，等。
+  技术：主要使用 Python 语言，使用 Flask/SQLAlchemy/MySQL 等。
+
+- 2013,06 ~ 2014,01：路由器产品 WIT-FII 的公共网站
+  公司：广州远云网络科技有限公司
+  职务：全权
+  描述：路由器产品 WIT-FII 的公共网站，包括账户及路由器管理、服务接口、中转服务、在线商店等。
+  职责：架构及实现。
+  业绩：运行正常，为 iOS 客户端和 Android 客户端提供的各种接口、中转服务正常。在线商店实现了支付宝即时到帐接口，可正常购买产品。
+  技术：主要使用 Python 语言，主要使用 gevent/WebOb/Jinja2/WTForms/SQLAlchemy/Redis 等。
+
+- 2011,05 ~ 2013,06：Syncbox 产品的 webserver
+  公司：广州远云网络科技有限公司
+  职务：维护者
+  描述：家庭私有存储服务的 web 服务器端，提供 web 页面供浏览、控制管理，提供 web 接口供移动终端客户端使用。
+  职责：开发包括各种文件（包括图片/PDF/Office/音频/视频/文本等）的预览图/缩略图的获取生成存取及文件元数据获取，推送文件到 Dropbox/Google Drive/SkyDrive/金山快盘/酷盘，维护服务接口。
+  业绩：为 web 页面、iOS 和 Android 客户端提供了预览图/缩略图服务。改善了代码组织、质量。增加了文档。
+  技术：主要使用 Python 语言，主要使用 Tornado/Kyoto Cabinet/Berkeley DB 等。
+
 链接
 ------------
+
+个人相关
+
+- https://www.zhangkaizhao.com
+- https://www.linkedin.com/in/zhangkaizhao
 
 工作相关
 
@@ -86,16 +109,8 @@ E-mail：zhangkaizhao@gmail.com
 - http://www.everydo.com
 - ...
 
-个人相关
-
-- https://bitbucket.org/zhangkaizhao
-- https://github.com/metalman
-- http://www.douban.com/people/halfcool/
-- https://www.linkedin.com/in/zhangkaizhao
-
 --  
-最后编辑于 2015年04月20日
-
+最后编辑于 2015年05月07日
 
 ENGLISH RESUME
 ==============
