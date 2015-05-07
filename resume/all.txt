@@ -59,7 +59,7 @@ E-mail：zhangkaizhao@gmail.com
 - 熟悉 GNU/Linux 环境，特别是 Debian/Ubuntu, Fedora, Arch Linux, Gentoo, 等
 - 比较熟悉 MySQL 关系型数据库，和 Redis 等 key-value 缓存和存储
 - 熟悉 HTML, CSS, JavaScript 等前端开发技术
-- 熟练使用 Vim 等工具进行开发
+- 熟练使用 Vim 及各种 UNIX 工具等进行开发
 - 比较熟悉 Git 等版本控制系统
 
 教育经历
