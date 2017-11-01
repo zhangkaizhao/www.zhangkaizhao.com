@@ -20,9 +20,9 @@ Email: zhangkaizhao@gmail.com 或 whycrying@qq.com
 ========
 
 * 编程语言：Python，等。
-* 前端开发技术：HTML/CSS，等。
-* 后端开发技术：Django/Flask/Tornado，MySQL，Redis，等。
-* 开发环境：GNU/Linux，特别是 Debian/Ubuntu、Fedora、Arch Linux、等。
+* 前端开发技术：HTML，CSS，等。
+* 后端开发技术：Django、Flask、Tornado，MySQL，Redis，等。
+* 开发环境：GNU/Linux，特别是 Debian、Ubuntu、Fedora、Arch Linux、等。
 * 工具箱：Git，Vim，各种 UNIX 工具，等。
 
 工作经历
