@@ -4,26 +4,26 @@
 
 Email: zhangkaizhao@gmail.com 或 whycrying@qq.com
 
-移动电话：135-0246-0825
+移动电话：+86 135-0246-0825
 
 目标
 ====
 
-寻找在广州或者深圳的软件开发工作，对服务器后端开发感兴趣。
+寻找在广州、深圳、厦门或者上海的软件开发工作，对各种软件开发感兴趣。
 
 专长领域
 ========
 
-* 服务器后端开发
+* 服务器后端开发。
 
 技术知识
 ========
 
-* 编程语言：Python、等。
-* 前端开发技术：HTML/CSS、等。
-* 后端开发技术：Django/Flask/Tornado、MySQL、Redis、等。
+* 编程语言：Python，等。
+* 前端开发技术：HTML/CSS，等。
+* 后端开发技术：Django/Flask/Tornado，MySQL，Redis，等。
 * 开发环境：GNU/Linux，特别是 Debian/Ubuntu、Fedora、Arch Linux、等。
-* 工具箱：Git、Vim、各种 UNIX 工具、等。
+* 工具箱：Git，Vim，各种 UNIX 工具，等。
 
 工作经历
 ========
@@ -37,7 +37,7 @@ Email: zhangkaizhao@gmail.com 或 whycrying@qq.com
 
 工作内容：Safe Family 项目的服务器后端开发。
 
-工作技术栈：Python, Tornado, Cassandra, etc.
+工作技术栈：Python，Tornado，Cassandra，等。
 
 注：英特尔安全部门（Intel Security）自 2017 年 4 月份开始从英特尔独立出来成为新的迈克菲（McAfee）。与英特尔的合同终止于 2017 年 4 月 3 日。期后在新的迈克菲直到 2017 年 5 月 26 日离开。
 
@@ -50,7 +50,7 @@ Email: zhangkaizhao@gmail.com 或 whycrying@qq.com
 
 工作内容：隶属广州电商平台开发，Python 开发团队（大白云诊之用药助手项目等）的技术指导等。
 
-工作技术栈：Python, Django, Celery, Whoosh, 等。
+工作技术栈：Python，Django，Celery，Whoosh，等。
 
 高级软件开发工程师 - 广东彩惠智能科技有限公司
 ---------------------------------------------
@@ -61,7 +61,7 @@ Email: zhangkaizhao@gmail.com 或 whycrying@qq.com
 
 工作内容：彩乐透（互联网彩票代购系统）的开发。
 
-工作技术栈：Python, Flask, SQLAlchemy, 等。
+工作技术栈：Python，Flask，SQLAlchemy，等。
 
 软件开发工程师 - 广东利安数字化社区便民服务有限公司
 ---------------------------------------------------
@@ -72,7 +72,7 @@ Email: zhangkaizhao@gmail.com 或 whycrying@qq.com
 
 工作内容：终端客户端的开发。
 
-工作技术栈：Python, PyQt4, 等。
+工作技术栈：Python，PyQt4，等。
 
 注：不幸进入一家有问题的公司，黑心老板不发工资，工作两个来月未领到工资。
 
@@ -96,7 +96,7 @@ Email: zhangkaizhao@gmail.com 或 whycrying@qq.com
   * 架构及实现。
   * 路由器产品桌面客户端的开发。
 
-工作技术栈：Python, Tornado, gevent, SQLAlchemy, Redis, 等。
+工作技术栈：Python，Tornado，gevent，SQLAlchemy，Redis，等。
 
 软件开发工程师 - 广州网融网络技术有限公司
 -----------------------------------------
@@ -112,7 +112,7 @@ Email: zhangkaizhao@gmail.com 或 whycrying@qq.com
 * 证联项目的前期技术调研和原型开发（ OpenID/OAuth ）。
 * 服务器及其他工作、项目相关管理系统的部署管理等。
 
-工作技术栈：Python, Tornado, MongoDB, 等。
+工作技术栈：Python，Tornado，MongoDB，等。
 
 软件开发工程师 - 上海润普网络信息技术有限责任公司
 -------------------------------------------------
@@ -123,10 +123,10 @@ Email: zhangkaizhao@gmail.com 或 whycrying@qq.com
 
 工作内容：
 
-* everydo 各产品的开发。
+* EveryDo 各产品的开发。
 * 协助产品的部署和运营等。
 
-工作技术栈：Python, Zope 3, 等。
+工作技术栈：Python，Zope 3，等。
 
 设备工程师 - 汕头超声显示器有限公司
 -----------------------------------
@@ -180,11 +180,11 @@ Safe Family
 
 描述：
 
-* Cross-platform protection for family's devices. Support Android, iOS and Windows PC platforms.
+* Cross-platform protection for family's devices. Support Android，iOS and Windows PC platforms.
 * Features:
 
-  1. Rules for App blocking, URL blocking, Screen time and Fences.
-  2. Notifications with response for Apps, URLs and Screen requests. And notifications without response for checkin and fence.
+  1. Rules for App blocking，URL blocking，Screen time and Fences.
+  2. Notifications with response for Apps，URLs and Screen requests. And notifications without response for checkin and fence.
   3. Activities.
   4. Maps.
 
@@ -196,7 +196,9 @@ Safe Family
 * Fixed lots of bugs.
 * Improved performance.
 
-技术栈：Back-end tech stack: Python, Tornado, Cassandra, etc.
+技术栈：
+
+* 服务器后端技术栈：Python，Tornado，Cassandra，等。
 
 彩乐透
 ------
@@ -215,7 +217,7 @@ Safe Family
 * 完善已有功能比如提款、下单支付、出票流程、后台各种管理功能等。
 * 改善系统架构、代码质量等。
 
-技术栈：Python, Flask, SQLAlchemy, 等。
+技术栈：Python，Flask，SQLAlchemy，等。
 
 WIT-FII
 -------
@@ -233,7 +235,9 @@ WIT-FII
 * 运行正常，为 iOS 客户端和 Android 客户端提供的各种接口、中转服务正常。
 * 在线商店实现了支付宝即时到帐接口，可正常购买产品。
 
-技术栈：公共网站技术栈：Python, gevent, SQLAlchemy, Redis, 等。
+技术栈：
+
+* 公共网站技术栈：Python，gevent，SQLAlchemy，Redis，等。
 
 Syncbox
 -------
@@ -246,16 +250,18 @@ Syncbox
 
 职责：
 
-* 开发包括各种文件（包括图片/PDF/Office/音频/视频/文本等）的预览图/缩略图的获取生成存取，及文件元数据的获取。
-* 推送文件到 Dropbox/Google Drive/SkyDrive/金山快盘/酷盘。
+* 开发包括各种文件（包括图片、PDF、Office、音频、视频、文本等）的预览图、缩略图的获取生成，及文件元数据的获取。
+* 推送文件到 Dropbox、Google Drive、SkyDrive、金山快盘、酷盘。
 * 维护服务接口。
 
 业绩：
 
-* 为 web 页面、iOS 和 Android 客户端提供了预览图/缩略图服务。
+* 为 web 页面、iOS 和 Android 客户端提供了预览图、缩略图服务。
 * 改善了代码组织、质量。
 
-技术栈：服务器端技术栈：Python, Tornado, 等。
+技术栈：
+
+* 服务器端技术栈：Python，Tornado，等。
 
 链接
 ====
@@ -272,9 +278,9 @@ Syncbox
 * Safe Family: http://family.mcafee.com
 * 彩乐透: http://www.clt500.com
 * WIT-FII: https://www.witfii.com/index.html
-* Syncbox: http://www.syncbox.cn http://www.isyncbox.com
+* Syncbox: http://www.syncbox.cn 和 http://www.isyncbox.com
 * EveryDo: http://www.everydo.com
 
 ---
 
-最后编辑于 2017 年 10 月 29 日
+最后编辑于 2017 年 11 月 1 日
