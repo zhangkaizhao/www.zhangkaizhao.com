@@ -1,0 +1,321 @@
+﻿=============
+Kaizhao Zhang
+=============
+
+Email: zhangkaizhao@gmail.com or whycrying@qq.com
+
+Phone: +86 135-0246-0825
+
+Objective
+=========
+
+Seeking a software development job in Guangzhou/Shenzhen/Xiamen/Shanghai.
+
+Areas of Expertise
+==================
+
+* Back-end development
+
+Technical Knowledge
+===================
+
+* Programming Languages: Python, etc.
+* Front-end development: HTML, CSS, etc.
+* Back-end development: Django, Flask, Tornado, MySQL, Redis, etc.
+* Development environment: GNU/Linux, especially Debian, Ubuntu, Fedora, Arch
+  Linux, etc.
+* Toolkits: Git, Vim, UNIX utilities, etc.
+
+Experience
+==========
+
+Software Development Engineer at Intel China Inc.
+-------------------------------------------------
+
+February 2016 to April 2017
+
+Location: Shenzhen
+
+Working as back-end developer/leader of Safe Family project.
+
+Technical stack: Python, Tornado, Cassandra, etc.
+
+Note: Intel Security was departed from Intel since April 2017 as new McAfee.
+The contract was ended on April 3, 2017. Then I kept in the new McAfee until
+May 26, 2017.
+
+Software Development Engineer at Guangzhou Qilekang Inc.
+--------------------------------------------------------
+
+May 2015 to October 2015
+
+Location: Guangzhou
+
+As part of development of the Guangzhou Electronic Business platform, working
+as a developer and the consultant of the Python development team. There were
+some small projects taken and finished by me and my fellows. And the most
+important project I joined was the Medicine Assistant sub-project of Dabai
+project.
+
+Technical stack: Python, Django, Celery, Whoosh, etc.
+
+Senior Software Development Engineer at Guangdong Caihui Inc.
+-------------------------------------------------------------
+
+June 2014 to January 2015
+
+Location: Guangzhou
+
+Working on the development of Cailetou project.
+
+Technical stack: Python, Flask, SQLAlchemy, etc.
+
+Software Development Engineer at Guangdong Li'an Inc.
+-----------------------------------------------------
+
+March 2014 to May 2014
+
+Location: Guangzhou
+
+Working on the development of the terminal client.
+
+Technical stack: Python, PyQt4, etc.
+
+Note: Unfortunately, this is a bad company. I got nothing for about two months
+work.
+
+Software Development Engineer at Guangzhou Yuanyun Inc.
+-------------------------------------------------------
+
+May 2011 to January 2014
+
+Location: Guangzhou
+
+Working on:
+
+* Development of Syncbox project.
+
+  - Development of web server.
+  - Development of client for Linux.
+  - Development of DDNS server and client.
+
+* Development of WIT-FII project.
+
+  - Architecture and implementation of the Router Hub server.
+  - Development of PC client.
+
+Technical stack: Python, Tornado, gevent, SQLAlchemy, Redis, etc.
+
+Software Development Engineer at Guangzhou Wangrong Inc.
+--------------------------------------------------------
+
+May 2010 to May 2011
+
+Location: Guangzhou
+
+Working on:
+
+* Development of the auto-update back-end server and client which bases on
+  Google Omaha.
+* Prototype development of server and client of file sync project.
+* Technical research and prototype development of Certification Union project
+  which bases on OpenID and OAuth.
+* Deployment and management of development and testing servers and project
+  management server.
+
+Technical stack: Python, Tornado, MongoDB, Java, Tomcat, etc.
+
+Software Development Engineer at Shanghai Zopen Inc.
+----------------------------------------------------
+
+September 2008 to December 2009
+
+Location: Guangzhou
+
+Working on:
+
+* Development of EveryDo products.
+* Deployment and operation of products, etc.
+
+Technical stack: Python, Zope 3, etc.
+
+Mechanical Engineer at Shantou Goworld Display Inc.
+---------------------------------------------------
+
+April 2006 to July 2008
+
+Location: Shantou
+
+Working on:
+
+* Maintaining and repairing production equipment.
+* Designing and fixing equipment kits and fixtures, etc.
+
+Mechanical Engineer at Shenzhen Dongluyang Inc.
+-----------------------------------------------
+
+October 2005 to November 2005
+
+Location: Shenzhen
+
+Working on the design of products.
+
+Education
+=========
+
+Bachelor of Mechanical Engineering and Automation
+-------------------------------------------------
+
+South China University of Technology, September 2001 to July 2005
+
+Langauge
+========
+
+* English
+* Mandarin (Chinese)
+* Teochew dialect
+
+Project
+=======
+
+Safe Family
+-----------
+
+March 2016 to March 2017 at Intel China Inc.
+
+Description:
+
+* Cross-platform protection for family's devices. Support Android, iOS and
+  Windows PC platforms.
+* Features:
+
+  - Rules for App blocking, URL blocking, Screen time and Fences.
+  - Notifications with response for Apps, URLs and Screen requests. And
+    notifications without response for checkin and fence.
+  - Activities.
+  - Maps.
+
+Working as back-end developer/leader.
+
+Achievement:
+
+* Safe Family 1.5 Release.
+* Fixed lots of bugs.
+* Improved performance.
+
+Technical stack:
+
+* Back-end technical stack: Python, Tornado, Cassandra, etc.
+
+Cailetou
+--------
+
+June 2014 to January 2015 at Guangdong Caihui Inc.
+
+Description: Internet proxy website for Lottery.
+
+Working on the development.
+
+Achievement:
+
+* Added new features including virtual money, online event, etc.
+* Improved features including withdrawal, order, payment, ticketing, back-end
+  management functions, etc.
+* Improved the structure and quality of source code.
+
+Technical stack: Python, Flask, SQLAlchemy, etc.
+
+WIT-FII
+-------
+
+June 2013 to January 2014 at Guangzhou Yuanyun Inc.
+
+Description:
+
+* The Router Hub server of WIT-FII project.
+* Features:
+
+  - API service for management of account and router, etc.
+  - Gateway service.
+  - Online store, etc.
+
+Working on the whole architecture and implementation.
+
+Achievement:
+
+* API service for management of account and router, etc works well for iOS and
+  Android client.
+* Gateway service works well.
+* The online store implemented the Payment API of Alipay. Users can buy
+  products on the online store.
+
+Technical stack:
+
+* The Router Hub server: Python, gevent, SQLAlchemy, Redis, etc.
+
+Syncbox
+-------
+
+May 2011 to June 2013 at Guangzhou Yuanyun Inc.
+
+Description:
+
+* Private file storage service for families.
+* Features of web server:
+
+  - Website for online browse and control management.
+  - API service for mobile clients.
+
+* The DDNS server provides Dynamic DNS service for every machine which can
+  connect to internet and has Syncbox servers running on it.
+
+Working on:
+
+* Preview image, thumbnail and metadata generation for files including image,
+  PDF, Office, audio, video, text, etc files.
+* Recent files sync to Dropbox, Google Drive, SkyDrive, Jingshan Kuaipan and
+  Kupan.
+* Development of API service.
+
+Achievement:
+
+* Added preview image, thumbnail and metadata API for website, iOS and Android
+  client.
+* Improved API service.
+* Improved the structure and quality of source code.
+
+Technical stack:
+
+* Back-end: Python, Tornado, gevent, etc.
+
+Link
+====
+
+Personal
+--------
+
+* Website: https://www.zhangkaizhao.com
+* LinkedIn: https://www.linkedin.com/in/zhangkaizhao
+
+Working
+-------
+
+* Safe Family: http://family.mcafee.com
+* Cailetou: http://www.clt500.com
+* WIT-FII: https://www.witfii.com/index.html
+* Syncbox: http://www.syncbox.cn and http://www.isyncbox.com
+* EveryDo: http://www.everydo.com
+
+* Shenzhen Dongluyang Inc.: http://www.doluyo.com
+* Shantou Goworld Display Inc.: http://www.goworld-lcd.com
+* Guangzhou Wangrong Inc.: http://www.g4b.cn
+* Guangzhou Qilekang Inc.: http://www.7lk.com
+
+Other
+-----
+
+* Google Omaha: https://github.com/google/omaha
+
+---
+
+Updated on November 4, 2017

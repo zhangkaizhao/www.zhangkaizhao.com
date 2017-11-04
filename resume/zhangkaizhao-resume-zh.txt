@@ -87,14 +87,14 @@ Email: zhangkaizhao@gmail.com 或 whycrying@qq.com
 
 * 前期主要负责 Syncbox 产品的开发。
 
-  * web server 后台的开发和维护。
-  * Linux 客户端的维护。
-  * 以及相应的 DDNS 服务器端和客户端的后期维护。
+  - Web server 后台的开发和维护。
+  - Linux 客户端的维护。
+  - 以及相应的 DDNS 服务器端和客户端的后期维护。
 
 * 后期主要负责路由器产品 WIT-FII 公共网站的开发。
 
-  * 架构及实现。
-  * 路由器产品桌面客户端的开发。
+  - 架构及实现。
+  - 路由器产品桌面客户端的开发。
 
 工作技术栈：Python，Tornado，gevent，SQLAlchemy，Redis，等。
 
@@ -107,12 +107,12 @@ Email: zhangkaizhao@gmail.com 或 whycrying@qq.com
 
 工作内容：
 
-* 自动升级后台（基于 Google Omaha 项目）开发。
+* 自动升级服务器后台和客户端（基于 Google Omaha 项目）的开发。
 * 文件同步服务端及客户端的原型开发。
-* 证联项目的前期技术调研和原型开发（ OpenID/OAuth ）。
+* 证联项目的前期技术调研和原型开发（OpenID/OAuth）。
 * 服务器及其他工作、项目相关管理系统的部署管理等。
 
-工作技术栈：Python，Tornado，MongoDB，等。
+工作技术栈：Python，Tornado，MongoDB，Java，Tomcat，等。
 
 软件开发工程师 - 上海润普网络信息技术有限责任公司
 -------------------------------------------------
@@ -137,8 +137,8 @@ Email: zhangkaizhao@gmail.com 或 whycrying@qq.com
 
 工作内容：
 
-* 维护维修的各种生产设备。
-* 设计和完善各种相关配件、夹具等。
+* 各种生产设备的维护维修。
+* 各种相关配件、夹具的设计和完善等。
 
 机械工程师 - 深圳市东露阳实业有限公司
 -------------------------------------
@@ -159,7 +159,7 @@ Email: zhangkaizhao@gmail.com 或 whycrying@qq.com
 
 学校：华南理工大学
 
-获得学位：工学学士
+学位：工学学士
 
 语言
 ====
@@ -180,13 +180,15 @@ Safe Family
 
 描述：
 
-* Cross-platform protection for family's devices. Support Android，iOS and Windows PC platforms.
+* Cross-platform protection for family's devices. Support Android，iOS and
+  Windows PC platforms.
 * Features:
 
-  1. Rules for App blocking，URL blocking，Screen time and Fences.
-  2. Notifications with response for Apps，URLs and Screen requests. And notifications without response for checkin and fence.
-  3. Activities.
-  4. Maps.
+  - Rules for App blocking，URL blocking，Screen time and Fences.
+  - Notifications with response for Apps，URLs and Screen requests. And
+    notifications without response for checkin and fence.
+  - Activities.
+  - Maps.
 
 职责：Back-end developer/leader.
 
@@ -198,7 +200,7 @@ Safe Family
 
 技术栈：
 
-* 服务器后端技术栈：Python，Tornado，Cassandra，等。
+* 服务器后端：Python，Tornado，Cassandra，等。
 
 彩乐透
 ------
@@ -214,7 +216,7 @@ Safe Family
 业绩：
 
 * 增加各种新功能比如虚拟货币体系、在线活动等。
-* 完善已有功能比如提款、下单支付、出票流程、后台各种管理功能等。
+* 完善已有功能比如提款、下单支付、出票流程、各种后台管理功能等。
 * 改善系统架构、代码质量等。
 
 技术栈：Python，Flask，SQLAlchemy，等。
@@ -226,18 +228,26 @@ WIT-FII
 
 公司：广州远云网络科技有限公司
 
-描述：路由器产品 WIT-FII 的公共网站，包括账户及路由器管理、服务接口、中转服务、在线商店等。
+描述：
 
-职责：架构及实现。
+* 路由器产品。
+* 其公共网站包括：
+
+  - 账户和路由器管理等接口服务。
+  - 中转服务。
+  - 在线商店，等。
+
+职责：公共网站的架构及实现。
 
 业绩：
 
-* 运行正常，为 iOS 客户端和 Android 客户端提供的各种接口、中转服务正常。
+* 为 iOS 客户端和 Android 客户端提供账户和路由器管理等接口服务。
+* 中转服务正常工作。
 * 在线商店实现了支付宝即时到帐接口，可正常购买产品。
 
 技术栈：
 
-* 公共网站技术栈：Python，gevent，SQLAlchemy，Redis，等。
+* 公共网站：Python，gevent，SQLAlchemy，Redis，等。
 
 Syncbox
 -------
@@ -246,7 +256,15 @@ Syncbox
 
 公司：广州远云网络科技有限公司
 
-描述：家庭私有存储服务的服务器端，提供 web 页面供浏览、控制管理，提供 web 接口供移动终端客户端使用。
+描述：
+
+* 家庭私有存储服务。
+* 其 web server 包括：
+
+  - 提供 web 页面供在线浏览及控制管理。
+  - 提供 web 接口供移动终端客户端使用。
+
+* 其 DDNS 服务为每台连接到互联网和运行着 Syncbox 服务的设备提供动态域名服务。
 
 职责：
 
@@ -256,31 +274,42 @@ Syncbox
 
 业绩：
 
-* 为 web 页面、iOS 和 Android 客户端提供了预览图、缩略图服务。
-* 改善了代码组织、质量。
+* 为 web 页面、iOS 和 Android 客户端添加了预览图、缩略图服务。
+* 改善服务接口。
+* 改善代码组织、质量。
 
 技术栈：
 
-* 服务器端技术栈：Python，Tornado，等。
+* 服务器端：Python，Tornado，gevent，等。
 
 链接
 ====
 
-个人相关
---------
+个人的
+------
 
 * 个人站点: https://www.zhangkaizhao.com
 * 领英: https://www.linkedin.com/in/zhangkaizhao
 
-工作相关
---------
+工作的
+------
 
 * Safe Family: http://family.mcafee.com
 * 彩乐透: http://www.clt500.com
-* WIT-FII: https://www.witfii.com/index.html
+* WIT-FII: https://www.witfii.com
 * Syncbox: http://www.syncbox.cn 和 http://www.isyncbox.com
 * EveryDo: http://www.everydo.com
 
+* 深圳市东露阳实业有限公司: http://www.doluyo.com
+* 汕头超声显示器有限公司: http://www.goworld-lcd.com
+* 广州网融网络技术有限公司: http://www.g4b.cn
+* 广州七乐康药业连锁有限公司: http://www.7lk.com
+
+其他
+----
+
+* Google Omaha: https://github.com/google/omaha
+
 ---
 
-最后编辑于 2017 年 11 月 1 日
+最后编辑于 2017 年 11 月 4 日
