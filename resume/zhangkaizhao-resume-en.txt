@@ -9,7 +9,7 @@ Phone: +86 135-0246-0825
 Objective
 =========
 
-Seeking a software development job in Guangzhou/Shenzhen/Xiamen/Shanghai.
+Seeking a software development job.
 
 Areas of Expertise
 ==================
@@ -20,7 +20,7 @@ Technical Knowledge
 ===================
 
 * Programming Languages: Python, etc.
-* Front-end development: HTML, CSS, etc.
+* Front-end development: HTML, CSS, JavaScript, etc.
 * Back-end development: Django, Flask, Tornado, MySQL, Redis, etc.
 * Development environment: GNU/Linux, especially Debian, Ubuntu, Fedora, Arch
   Linux, etc.
@@ -34,7 +34,7 @@ Software Development Engineer at Intel China Inc.
 
 February 2016 to April 2017
 
-Location: Shenzhen
+Location: Shenzhen, Guangdong, China
 
 Working as back-end developer/leader of Safe Family project.
 
@@ -49,7 +49,7 @@ Software Development Engineer at Guangzhou Qilekang Inc.
 
 May 2015 to October 2015
 
-Location: Guangzhou
+Location: Guangzhou, Guangdong, China
 
 As part of development of the Guangzhou Electronic Business platform, working
 as a developer and the consultant of the Python development team. There were
@@ -64,7 +64,7 @@ Senior Software Development Engineer at Guangdong Caihui Inc.
 
 June 2014 to January 2015
 
-Location: Guangzhou
+Location: Guangzhou, Guangdong, China
 
 Working on the development of Cailetou project.
 
@@ -75,7 +75,7 @@ Software Development Engineer at Guangdong Li'an Inc.
 
 March 2014 to May 2014
 
-Location: Guangzhou
+Location: Guangzhou, Guangdong, China
 
 Working on the development of the terminal client.
 
@@ -89,7 +89,7 @@ Software Development Engineer at Guangzhou Yuanyun Inc.
 
 May 2011 to January 2014
 
-Location: Guangzhou
+Location: Guangzhou, Guangdong, China
 
 Working on:
 
@@ -111,7 +111,7 @@ Software Development Engineer at Guangzhou Wangrong Inc.
 
 May 2010 to May 2011
 
-Location: Guangzhou
+Location: Guangzhou, Guangdong, China
 
 Working on:
 
@@ -130,7 +130,7 @@ Software Development Engineer at Shanghai Zopen Inc.
 
 September 2008 to December 2009
 
-Location: Guangzhou
+Location: Guangzhou, Guangdong, China
 
 Working on:
 
@@ -144,7 +144,7 @@ Mechanical Engineer at Shantou Goworld Display Inc.
 
 April 2006 to July 2008
 
-Location: Shantou
+Location: Shantou, Guangdong, China
 
 Working on:
 
@@ -156,7 +156,7 @@ Mechanical Engineer at Shenzhen Dongluyang Inc.
 
 October 2005 to November 2005
 
-Location: Shenzhen
+Location: Shenzhen, Guangdong, China
 
 Working on the design of products.
 
@@ -171,9 +171,9 @@ South China University of Technology, September 2001 to July 2005
 Langauge
 ========
 
-* English
-* Mandarin (Chinese)
-* Teochew dialect
+* English: passed CET-4(College English Test Band 4) in March 2004
+* Chinese
+* Teochew dialect (A Chinese dialect)
 
 Project
 =======
@@ -318,4 +318,4 @@ Other
 
 ---
 
-Updated on November 4, 2017
+Updated on November 11, 2017

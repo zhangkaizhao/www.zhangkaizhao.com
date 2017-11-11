@@ -9,7 +9,7 @@ Email: zhangkaizhao@gmail.com 或 whycrying@qq.com
 目标
 ====
 
-寻找在广州、深圳、厦门或者上海的软件开发工作，对各种软件开发感兴趣。
+寻找软件开发工作，工作地点包括并不局限于广州、深圳、厦门、上海等。
 
 专长领域
 ========
@@ -20,7 +20,7 @@ Email: zhangkaizhao@gmail.com 或 whycrying@qq.com
 ========
 
 * 编程语言：Python，等。
-* 前端开发技术：HTML，CSS，等。
+* 前端开发技术：HTML，CSS，JavaScript，等。
 * 后端开发技术：Django、Flask、Tornado，MySQL，Redis，等。
 * 开发环境：GNU/Linux，特别是 Debian、Ubuntu、Fedora、Arch Linux、等。
 * 工具箱：Git，Vim，各种 UNIX 工具，等。
@@ -152,7 +152,7 @@ Email: zhangkaizhao@gmail.com 或 whycrying@qq.com
 教育
 ====
 
-机械工程及自动化 - 本科
+本科 - 机械工程及自动化
 -----------------------
 
 时间：2001,09 至 2005,07
@@ -164,7 +164,7 @@ Email: zhangkaizhao@gmail.com 或 whycrying@qq.com
 语言
 ====
 
-* 英语：CET4
+* 英语：在 2004 年 3 月通过了 CET-4
 * 普通话：良好
 * 潮州话：母语
 
@@ -312,4 +312,4 @@ Syncbox
 
 ---
 
-最后编辑于 2017 年 11 月 4 日
+最后编辑于 2017 年 11 月 11 日
