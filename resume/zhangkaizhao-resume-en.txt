@@ -19,7 +19,7 @@ Areas of Expertise
 Technical Knowledge
 ===================
 
-* Programming Languages: Python, etc.
+* Programming languages: Python, etc.
 * Front-end development: HTML, CSS, JavaScript, etc.
 * Back-end development: Django, Flask, Tornado, MySQL, Redis, etc.
 * Development environment: GNU/Linux, especially Debian, Ubuntu, Fedora, Arch
@@ -168,12 +168,11 @@ Bachelor of Mechanical Engineering and Automation
 
 South China University of Technology, September 2001 to July 2005
 
-Langauge
+Language
 ========
 
-* English: passed CET-4(College English Test Band 4) in March 2004
-* Chinese
-* Teochew dialect (A Chinese dialect)
+* English: passed *College English Test Band 4* (*CET-4*) in March 2004
+* Chinese: Mandarin, Teochew dialect, Cantonese
 
 Project
 =======
@@ -318,4 +317,4 @@ Other
 
 ---
 
-Updated on November 11, 2017
+Updated on November 19, 2017
