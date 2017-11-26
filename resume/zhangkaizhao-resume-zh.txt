@@ -179,12 +179,12 @@ Safe Family
 
 描述：
 
-* Cross-platform protection for family's devices. Support Android，iOS and
+* Cross-platform protection for family's devices. Support Android, iOS and
   Windows PC platforms.
 * Features:
 
-  - Rules for App blocking，URL blocking，Screen time and Fences.
-  - Notifications with response for Apps，URLs and Screen requests. And
+  - Rules for App blocking, URL blocking, Screen time and Fences.
+  - Notifications with response for Apps, URLs and Screen requests. And
     notifications without response for checkin and fence.
   - Activities.
   - Maps.
@@ -311,4 +311,4 @@ Syncbox
 
 ---
 
-最后更新于 2017 年 11 月 19 日
+最后更新于 2017 年 11 月 26 日
