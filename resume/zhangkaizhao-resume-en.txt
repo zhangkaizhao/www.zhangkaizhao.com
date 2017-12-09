@@ -70,20 +70,6 @@ Working on the development of Cailetou project.
 
 Technical stack: Python, Flask, SQLAlchemy, etc.
 
-Software Development Engineer at Guangdong Li'an Inc.
------------------------------------------------------
-
-March 2014 to May 2014
-
-Location: Guangzhou, Guangdong, China
-
-Working on the development of the terminal client.
-
-Technical stack: Python, PyQt4, etc.
-
-Note: Unfortunately, this is a bad company. I got nothing for about two months
-work.
-
 Software Development Engineer at Guangzhou Yuanyun Inc.
 -------------------------------------------------------
 
@@ -125,8 +111,8 @@ Working on:
 
 Technical stack: Python, Tornado, MongoDB, Java, Tomcat, etc.
 
-Software Development Engineer at Shanghai Zopen Inc.
-----------------------------------------------------
+Developer at Shanghai Zopen Inc.
+--------------------------------
 
 September 2008 to December 2009
 
@@ -151,8 +137,26 @@ Working on:
 * Maintaining and repairing production equipment.
 * Designing and fixing equipment kits and fixtures, etc.
 
+Abnormal
+--------
+
+There were two abnormal short-term jobs.
+
+Software Development Engineer at Guangdong Li'an Inc.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+March 2014 to May 2014
+
+Location: Guangzhou, Guangdong, China
+
+Working on the development of the terminal client.
+
+Technical stack: Python, PyQt4, etc.
+
+Note: Unfortunately, this was a bad company. No pay for about two months work.
+
 Mechanical Engineer at Shenzhen Dongluyang Inc.
------------------------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 October 2005 to November 2005
 
@@ -305,16 +309,15 @@ Working
 * Syncbox: http://www.syncbox.cn and http://www.isyncbox.com
 * EveryDo: http://www.everydo.com
 
-* Shenzhen Dongluyang Inc.: http://www.doluyo.com
-* Shantou Goworld Display Inc.: http://www.goworld-lcd.com
-* Guangzhou Wangrong Inc.: http://www.g4b.cn
 * Guangzhou Qilekang Inc.: http://www.7lk.com
+* Guangzhou Wangrong Inc.: http://www.g4b.cn
+* Shantou Goworld Display Inc.: http://www.goworld-lcd.com
 
 Other
 -----
 
 * Google Omaha: https://github.com/google/omaha
 
----
+----
 
-Updated on November 19, 2017
+Updated on December 9, 2017
