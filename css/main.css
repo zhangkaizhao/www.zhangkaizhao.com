@@ -1,14 +1,15 @@
 #site {
   margin: 0 auto;
+  padding: 0 8px;
   max-width: 768px;
   text-align: left;
 }
 #header {
   margin-bottom: 0;
+  border-bottom: 1px solid gray;
 }
 #navigator {
   margin: 0;
-  border-bottom: 1px solid gray;
 }
 #navigator li {
   display: inline;
