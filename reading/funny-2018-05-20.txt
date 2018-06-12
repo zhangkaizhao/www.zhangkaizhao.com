@@ -1,0 +1,421 @@
+# Funny
+
+## 2017,11,29
+
+* MyGUI, OGRE
+* Verve language: https://verve-lang.org
+* Carp language: https://github.com/carp-lang/Carp
+
+## 2017,11,30
+
+* https://suckless.org/
+* http://www.musl-libc.org/
+* http://www.etalabs.net/compare_libcs.html
+
+## 2017,12,01
+
+* http://harmful.cat-v.org/software/
+
+## 2017,12,10
+
+* https://github.com/mdn/learning-area
+
+  docs/front-end/learning-area/
+
+## 2017,12,13
+
+* https://github.com/actix/actix-web
+
+  docs/rustlib/actix-web/guide/ (x: replaced by docs/rslib/actix-book/ )
+
+* https://github.com/rust-lang-nursery/rust-cookbook
+
+  docs/rust/rust-cookbook/
+
+* https://github.com/rust-lang-nursery/api-guidelines
+
+  docs/rust/api-guidelines/
+
+## 2017,12,14
+
+* https://github.com/bashyHQ/arewewebyet
+
+  docs/rust/arewewebyet/
+
+* https://github.com/doppioslash/arewegameyet
+
+  docs/rust/arewegameyet/
+
+* https://github.com/slide-rs/specs
+
+  docs/game-devel/specs/
+
+* https://www.python.org/dev/peps/pep-0557/
+
+  https://github.com/ericvsmith/dataclasses
+
+  repos/github.com/ericvsmith/dataclasses/
+
+* https://github.com/python-attrs/attrs
+
+  docs/pylib/attrs-stable/
+
+## 2017,12,15
+
+* https://github.com/rust-lang/rust-by-example
+
+  docs/rust/rust-by-example/
+
+* https://github.com/rust-lang-cn/rust-by-example-cn/
+
+  docs/rust/rust-by-example-cn/
+
+* https://github.com/jks-liu/R6RS.zh-cn
+
+  https://r6rs.mrliu.org/
+
+  docs/scheme/R6RS.zh-cn/
+
+## 2017,12,17
+
+* https://github.com/Kahaani/gatian
+
+  docs/teochew-dialect/gatian/
+
+* https://github.com/lepture/authlib
+
+  docs/pylib/authlib/
+
+* https://github.com/lepture/flask-weixin
+
+  repos/github.com/lepture/flask-weixin/
+
+## 2017,12,18
+
+* https://github.com/brson/stdx
+
+  repos/github.com/brson/stdx/
+
+* https://github.com/production-rs/bikeshed
+
+  repos/github.com/production-rs/bikeshed/
+
+## 2017,12,23
+
+* https://github.com/xtaci/algorithms
+
+  repos/github.com/xtaci/algorithms/
+
+## 2017,12,27
+
+* https://github.com/KaiserY/trpl-zh-cn
+
+  docs/rust/trpl-zh-cn/
+
+## 2017,12,28
+
+* https://www.alexa.com/topsites
+
+  https://en.wikipedia.org/wiki/List_of_most_popular_website
+
+## 2017,12,30
+
+* https://github.com/xitu/gold-miner
+
+  docs/translating/gold-miner/
+
+* https://github.com/Bogdanp/dramatiq
+
+  docs/pylib/dramatiq/
+
+## 2017,12,31
+
+* http://www.mikeperham.com/
+
+  Author of sidekiq and faktory.
+
+## 2018,01,01
+
+* https://itscoder.com/
+
+  https://github.com/itsCoder/weeklyblog
+
+  repos/github.com/itsCoder/weeklyblog/
+
+## 2018,01,02
+
+* http://www.cnblogs.com/cathsfz/archive/2012/11/05/facebook-interview-experience.html
+
+* https://www.infoq.com/presentations/Facebook-Release-Process
+
+* https://github.com/ipconfiger/free4my
+
+  repos/github.com/ipconfiger/free4my/
+
+## 2018,01,03
+
+* https://github.com/kemalcr/kemalcr.com
+
+  docs/crlib/kemalcr.com
+
+* http://crystalweekly.com/
+
+  subscribed email: wakeofwind@outlook.com
+
+* http://serdardogruyol.com
+
+  https://github.com/sdogruyol/sdogruyol.github.io
+
+  docs/website/sdogruyol.github.io/
+
+## 2018,01,04
+
+* http://rancher.com/rancher-os/
+
+  https://github.com/rancher/os
+
+* http://www.akitaonrails.com/2016/05/31/flirting-with-crystal-a-rubyist-perspective
+
+* https://veelenga.github.io/
+
+  docs/website/veelenga.github.io/
+
+## 2018,01,05
+
+* https://github.com/crystal-community/crystal-patterns
+
+  docs/crystal/crystal-patterns/
+
+## 2018,01,06
+
+* https://github.com/aalhour/awesome-compilers
+
+  docs/compiler/awesome-compilers/
+
+## 2018,01,07
+
+* https://github.com/crystal-tw/docs
+
+  docs/crystal/docs-by-crystal-tw/
+
+* http://huacnlee.com/blog/cache-design-in-ruby-china/
+
+* https://github.com/huacnlee/jquery.qeditor
+
+  repos/github.com/huacnlee/jquery.qeditor/
+
+## 2018,01,11
+
+* https://github.com/koute/stdweb
+
+  docs/rslib/stdweb/
+
+* https://github.com/DenisKolodin/yew
+
+  docs/rslib/yew/
+
+## 2018,01,12
+
+* https://github.com/ossu/computer-science
+
+  docs/courses/computer-science/
+
+  https://github.com/ossu/computer-science-cn
+
+  docs/courses/computer-science-cn/
+
+* https://github.com/mandliya/algorithms_and_data_structures
+
+  repos/github.com/mandliya/algorithms_and_data_structures/
+
+* https://github.com/commonmark
+
+  repos/github.com/commonmark/
+
+## 2018,01,13
+
+* https://github.com/google/pulldown-cmark
+
+  repos/github.com/google/pulldown-cmark/
+
+## 2018,01,16
+
+* https://www.reddit.com/r/rust/comments/7a9w1c/rust_is_now_an_official_part_of_stanfords/
+
+  http://cs242.stanford.edu/assignments/assign6/
+
+## 2018,01,19
+
+* https://github.com/Xudong-Huang/may
+
+  docs/rslib/may/
+
+## 2018,01,20
+
+* https://github.com/japaric/trust
+
+  repos/github.com/japaric/trust/
+
+## 2018,01,21
+
+* https://github.com/ServicemeshCN/awesome-servicemesh
+
+  docs/architecture/awesome-servicemesh/
+
+* https://github.com/runconduit
+
+## 2018,01,28
+
+* http://www.runoob.com
+
+## 2018,01,30
+
+* https://github.com/gothinkster/realworld
+
+  repos/github.com/gothinkster/realworld/
+
+* https://github.com/dwyl/learn-elixir
+
+  repos/github.com/dwyl/learn-elixir/
+
+## 2018,03,17
+
+* https://github.com/alteroot/awesome-mailinglists
+
+  repos/github.com/alteroot/awesome-mailinglists/
+
+* https://www.flaticon.com/
+* https://inqlude.org/
+* https://github.com/ellisonleao/magictools
+
+  repos/github.com/ellisonleao/magictools/
+
+* https://github.com/leereilly/games
+
+  repos/github.com/leereilly/games/
+
+## 2018,03,29
+
+* https://ssd.eff.org/
+
+## 2018,04,09
+
+* https://github.com/MStadlmeier/drivesync
+
+  repos/github.com/MStadlmeier/drivesync/
+
+## 2018,04,15
+
+* https://github.com/freeCodeCamp/devdocs
+
+  docs/apidoc/devdocs/
+
+* https://github.com/Idris-zh/Idris-dev
+
+  docs/idris/idris-zh/
+
+## 2018,04,26
+
+* https://vorpus.org/blog/notes-on-structured-concurrency-or-go-statement-considered-harmful/
+
+  https://mail.python.org/pipermail/async-sig/2018-April/000473.html
+
+  https://mail.python.org/pipermail/async-sig/2018-April/000478.html
+
+* https://blog.abevoelker.com/sick-of-ruby-dynamic-typing-side-effects-object-oriented-programming/
+
+  https://www.reddit.com/r/programming/comments/29mu50/sick_of_ruby_dynamic_typing_side_effects_and/
+
+  https://news.ycombinator.com/item?id#15641274
+
+  https://news.ycombinator.com/item?id#7975436
+
+* https://github.com/bitemyapp/learnhaskell
+
+  docs/haskell/learnhaskell/
+
+## 2018,05,04
+
+* https://scotthelme.co.uk/csrf-is-dead/
+
+## 2018,05,06
+
+* https://blog.delphij.net/2015/02/post-637.html (Node.js Is Bad Ass Rock Star Tech)
+
+* https://zypeh.github.io/2018/01/14/idris_tutorial/
+
+## 2018,05,07
+
+* https://www.manning.com/books/type-driven-development-with-idris
+
+  /zdata/documents/books/www.manning.com/type-driven-development-with-idris/
+
+## 2018,05,08
+
+* https://github.com/idris-hackers/idris-koans
+
+  docs/idris/idris-koans/
+
+## 2018,05,10
+
+* https://www.dozer.cc/2016/07/mysql-connection-pool-in-python.html
+
+* http://ecraven.github.io/r7rs-benchmarks/benchmark.html
+
+  https://github.com/ecraven/r7rs-benchmarks
+
+  repos/github.com/ecraven/r7rs-benchmarks/
+
+## 2018,05,12
+
+* https://rbspy.github.io/using-flamegraphs/
+
+* https://github.com/shimohq/chinese-programmer-wrong-pronunciation
+
+## 2018,05,14
+
+* https://medium.com/@robertgrosse/parallelizing-enjarify-in-go-and-rust-21055d64af7e
+
+* https://github.com/danistefanovic/build-your-own-x
+
+  docs/guide/build-your-own-x/
+
+* https://github.com/binhnguyennus/awesome-scalability
+
+  docs/architecture/awesome-scalability/
+
+## 2018,05,15
+
+* http://stackeye.com/2014/11/buildbot-in-action/
+
+* http://stackeye.com/2014/06/openstack-ci/
+
+* http://stackeye.com/2016/03/openstack-kolla-intro/
+
+## 2018,05,16
+
+* https://www.peterbe.com/plog/rust-go-python-parse-millions-of-dates-in-csv
+
+* https://blog.hyper.sh/serverless-ci-hyper-docker-integration-for-buildbot.html
+
+## 2018,05,18
+
+* https://github.com/actix/book
+
+  docs/rslib/actix-book/
+
+## 2018,05,19
+
+* https://github.com/alberthdev/alberthdev-misc/wiki/Installing-GRUB2-to-a-Partition
+
+* https://devil-detail.blogspot.sg/2016/05/installing-windows-10-bios-legacy-gpt-grub2.html
+
+## 2018,05,20
+
+* https://github.com/joncatanio/cannoli
+
+  demo/cannoli/
+
+* https://bsdelf.github.io/posts/freebsd-brief-user-guide
+
+* https://sivers.org/openbsd
