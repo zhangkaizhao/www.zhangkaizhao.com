@@ -4,13 +4,6 @@
 
 Email: zhangkaizhao@gmail.com 或 whycrying@qq.com
 
-移动电话：+86 135-0246-0825
-
-目标
-====
-
-寻找软件开发工作，工作地点包括并不局限于广州、深圳、厦门、上海等。
-
 专长领域
 ========
 
@@ -19,11 +12,12 @@ Email: zhangkaizhao@gmail.com 或 whycrying@qq.com
 技术知识
 ========
 
-* 编程语言：Python，等。
-* 前端开发技术：HTML，CSS，JavaScript，等。
-* 后端开发技术：Django、Flask、Tornado，MySQL，Redis，等。
-* 开发环境：GNU/Linux，特别是 Debian、Ubuntu、Fedora、Arch Linux、等。
-* 工具箱：Git，Vim，各种 UNIX 工具，等。
+* 编程语言：Python 等。
+* 前端开发技术：HTML，CSS 等。
+* 后端开发技术：Django、Flask、Tornado，SQL，Redis 等。
+* 开发环境：GNU/Linux 及 FreeBSD，特别是 Debian、Ubuntu、Fedora、Arch Linux 等。
+* 工具箱：Git，Vim，各种 UNIX 小工具等。
+* 其他：敏捷开发（比如 Scrum ），持续集成等。
 
 工作经历
 ========
@@ -31,64 +25,64 @@ Email: zhangkaizhao@gmail.com 或 whycrying@qq.com
 软件开发工程师 - 英特尔（中国）有限公司
 ---------------------------------------
 
-时间：2016,02 至 2017,04
+时间：2016-02 至 2017-04
 
 地点：深圳
 
 工作内容：Safe Family 项目的服务器后端开发。
 
-工作技术栈：Python，Tornado，Cassandra，等。
+工作技术栈：Python，Tornado，Cassandra 等。
 
-注：英特尔安全部门（Intel Security）自 2017 年 4 月份开始从英特尔独立出来成为新的迈克菲（McAfee）。与英特尔的合同终止于 2017 年 4 月 3 日。期后在新的迈克菲直到 2017 年 5 月 26 日离开。
+.. hint:: 英特尔安全部门（Intel Security）自 2017 年 4 月份开始从英特尔独立出来成为新的迈克菲（McAfee）。与英特尔的合同终止于 2017 年 4 月 3 日。期后在新的迈克菲直到 2017 年 5 月 26 日离开。
 
 软件开发工程师 - 广州七乐康药业连锁有限公司
 -------------------------------------------
 
-时间：2015,05 至 2015,10
+时间：2015-05 至 2015-10
 
 地点：广州
 
 工作内容：隶属广州电商平台开发，Python 开发团队（大白云诊之用药助手项目等）的技术指导等。
 
-工作技术栈：Python，Django，Celery，Whoosh，等。
+工作技术栈：Python，Django，Celery，Whoosh 等。
 
 高级软件开发工程师 - 广东彩惠智能科技有限公司
 ---------------------------------------------
 
-时间：2014,06 至 2015,01
+时间：2014-06 至 2015-01
 
 地点：广州
 
 工作内容：彩乐透（互联网彩票代购系统）的开发。
 
-工作技术栈：Python，Flask，SQLAlchemy，等。
+工作技术栈：Python，Flask，SQLAlchemy 等。
 
 软件开发工程师 - 广州远云网络科技有限公司
 -----------------------------------------
 
-时间：2011,05 至 2014,01
+时间：2011-05 至 2014-01
 
 地点：广州
 
 工作内容：
 
-* 前期主要负责 Syncbox 产品的开发。
+* Syncbox 产品的开发。
 
   - Web server 后台的开发和维护。
   - Linux 客户端的维护。
   - 以及相应的 DDNS 服务器端和客户端的后期维护。
 
-* 后期主要负责路由器产品 WIT-FII 公共网站的开发。
+* 路由器产品 WIT-FII 的开发。
 
-  - 架构及实现。
-  - 路由器产品桌面客户端的开发。
+  - 公共网站的架构及实现。
+  - 桌面客户端的开发。
 
-工作技术栈：Python，Tornado，gevent，SQLAlchemy，Redis，等。
+工作技术栈：Python，Tornado，gevent，SQLAlchemy，Redis 等。
 
 软件开发工程师 - 广州网融网络技术有限公司
 -----------------------------------------
 
-时间：2010,05 至 2011,05
+时间：2010-05 至 2011-05
 
 地点：广州
 
@@ -99,12 +93,12 @@ Email: zhangkaizhao@gmail.com 或 whycrying@qq.com
 * 证联项目的前期技术调研和原型开发（OpenID/OAuth）。
 * 服务器及其他工作、项目相关管理系统的部署管理等。
 
-工作技术栈：Python，Tornado，MongoDB，Java，Tomcat，等。
+工作技术栈：Python，Tornado，MongoDB，Java，Tomcat 等。
 
 软件开发工程师 - 上海润普网络信息技术有限责任公司
 -------------------------------------------------
 
-时间：2008,09 至 2009,12
+时间：2008-09 至 2009-12
 
 地址：广州
 
@@ -113,12 +107,12 @@ Email: zhangkaizhao@gmail.com 或 whycrying@qq.com
 * EveryDo 各产品的开发。
 * 协助产品的部署和运营等。
 
-工作技术栈：Python，Zope 3，等。
+工作技术栈：Python，Zope 3 等。
 
 设备工程师 - 汕头超声显示器有限公司
 -----------------------------------
 
-时间：2006,04 至 2008,07
+时间：2006-04 至 2008-07
 
 地点：汕头
 
@@ -127,40 +121,13 @@ Email: zhangkaizhao@gmail.com 或 whycrying@qq.com
 * 各种生产设备的维护维修。
 * 各种相关配件、夹具的设计和完善等。
 
-不正常的
---------
-
-有两份不正常的短期工作。
-
-软件开发工程师 - 广东利安数字化社区便民服务有限公司
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-时间：2014,03 至 2014,05
-
-地点：广州
-
-工作内容：终端客户端的开发。
-
-工作技术栈：Python，PyQt4，等。
-
-注：不幸进入一家有问题的公司，黑心老板不发工资。
-
-机械工程师 - 深圳市东露阳实业有限公司
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-时间：2005,10 至 2005,11
-
-地点：深圳
-
-工作内容：维护产品设计。
-
 教育
 ====
 
 本科 - 机械工程及自动化
 -----------------------
 
-时间：2001,09 至 2005,07
+时间：2001-09 至 2005-07
 
 学校：华南理工大学
 
@@ -178,19 +145,17 @@ Email: zhangkaizhao@gmail.com 或 whycrying@qq.com
 Safe Family
 -----------
 
-时间：2016,03 至 2017,03
+时间：2016-03 至 2017-03
 
 公司：英特尔（中国）有限公司
 
 描述：
 
-* Cross-platform protection for family's devices. Support Android, iOS and
-  Windows PC platforms.
+* Cross-platform protection for family's devices. Support Android, iOS and Windows PC platforms.
 * Features:
 
   - Rules for App blocking, URL blocking, Screen time and Fences.
-  - Notifications with response for Apps, URLs and Screen requests. And
-    notifications without response for checkin and fence.
+  - Notifications with response for Apps, URLs and Screen requests. And notifications without response for checkin and fence.
   - Activities.
   - Maps.
 
@@ -204,12 +169,12 @@ Safe Family
 
 技术栈：
 
-* 服务器后端：Python，Tornado，Cassandra，等。
+* 服务器后端：Python，Tornado，Cassandra 等。
 
 彩乐透
 ------
 
-时间：2014,06 至 2015,01
+时间：2014-06 至 2015-01
 
 公司：广东彩惠智能科技有限公司
 
@@ -223,12 +188,12 @@ Safe Family
 * 完善已有功能比如提款、下单支付、出票流程、各种后台管理功能等。
 * 改善系统架构、代码质量等。
 
-技术栈：Python，Flask，SQLAlchemy，等。
+技术栈：Python，Flask，SQLAlchemy 等。
 
 WIT-FII
 -------
 
-时间：2013,06 至 2014,01
+时间：2013-06 至 2014-01
 
 公司：广州远云网络科技有限公司
 
@@ -239,7 +204,7 @@ WIT-FII
 
   - 账户和路由器管理等接口服务。
   - 中转服务。
-  - 在线商店，等。
+  - 在线商店等。
 
 职责：公共网站的架构及实现。
 
@@ -251,12 +216,12 @@ WIT-FII
 
 技术栈：
 
-* 公共网站：Python，gevent，SQLAlchemy，Redis，等。
+* 公共网站：Python，gevent，SQLAlchemy，Redis 等。
 
 Syncbox
 -------
 
-时间：2011,05 至 2013,06
+时间：2011-05 至 2013-06
 
 公司：广州远云网络科技有限公司
 
@@ -265,14 +230,14 @@ Syncbox
 * 家庭私有存储服务。
 * 其 web server 包括：
 
-  - 提供 web 页面供在线浏览及控制管理。
+  - 提供 web 页面供在线浏览及文件操作。
   - 提供 web 接口供移动终端客户端使用。
 
 * 其 DDNS 服务为每台连接到互联网和运行着 Syncbox 服务的设备提供动态域名服务。
 
 职责：
 
-* 开发包括各种文件（包括图片、PDF、Office、音频、视频、文本等）的预览图、缩略图的获取生成，及文件元数据的获取。
+* 各种文件（PDF、Office、音视频、纯文本等）的预览图、缩略图的获取和生成及文件元数据的获取。
 * 推送文件到 Dropbox、Google Drive、SkyDrive、金山快盘、酷盘。
 * 维护服务接口。
 
@@ -284,7 +249,7 @@ Syncbox
 
 技术栈：
 
-* 服务器端：Python，Tornado，gevent，等。
+* 服务器端：Python，Tornado，gevent 等。
 
 链接
 ====
@@ -292,21 +257,21 @@ Syncbox
 个人的
 ------
 
-* 个人站点: https://www.zhangkaizhao.com
+* 个人站点: https://www.zhangkaizhao.com/
 * 领英: https://www.linkedin.com/in/zhangkaizhao
 
 工作的
 ------
 
-* Safe Family: http://family.mcafee.com
-* 彩乐透: http://www.clt500.com
-* WIT-FII: https://www.witfii.com
-* Syncbox: http://www.syncbox.cn 和 http://www.isyncbox.com
-* EveryDo: http://www.everydo.com
+* Safe Family: http://family.mcafee.com/
+* 彩乐透: http://www.clt500.com/
+* WIT-FII: https://www.witfii.com/index.html
+* Syncbox: http://www.syncbox.cn/ 和 http://www.isyncbox.com/
+* EveryDo: http://www.everydo.com/
 
-* 广州七乐康药业连锁有限公司: http://www.7lk.com
-* 广州网融网络技术有限公司: http://www.g4b.cn
-* 汕头超声显示器有限公司: http://www.goworld-lcd.com
+* 广州七乐康药业连锁有限公司: http://www.7lk.com/
+* 广州网融网络技术有限公司: http://www.g4b.cn/
+* 汕头超声显示器有限公司: http://www.goworld-lcd.com/
 
 其他
 ----
@@ -315,4 +280,4 @@ Syncbox
 
 ----
 
-最后更新于 2017 年 12 月 9 日
+最后更新于 2018 年 6 月 27 日
