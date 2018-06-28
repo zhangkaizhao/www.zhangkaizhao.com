@@ -10,6 +10,7 @@
 }
 #languages {
   text-align: right;
+  float: right;
 }
 #languages a {
   font-size: small;
