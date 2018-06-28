@@ -8,6 +8,13 @@
   margin-bottom: 0;
   border-bottom: 1px solid gray;
 }
+#languages {
+  text-align: right;
+}
+#languages a {
+  font-size: small;
+  text-decoration: none;
+}
 #navigator {
   margin: 0;
 }
@@ -26,13 +33,6 @@
 }
 #main {
   min-height: 10em;
-}
-#languages {
-  text-align: right;
-}
-#languages a {
-  font-size: small;
-  text-decoration: none;
 }
 #footer {
   text-align: center;
