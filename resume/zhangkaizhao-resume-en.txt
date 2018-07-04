@@ -192,16 +192,16 @@ Description:
 * Router Hub server of WIT-FII project.
 * Features:
 
-  - API service for management of account and router, etc.
-  - Gateway service.
+  - API service for management of accounts and routers, etc.
+  - Gateway service for routers.
   - Online store, etc.
 
-Working on the whole architecture and implementation.
+Working on the whole architecture and implementation of the Router Hub server.
 
 Achievement:
 
 * API service for management of account and router, etc works well for iOS and Android client.
-* Gateway service works well.
+* Gateway service works well for routers.
 * The online store implemented the Payment API of Alipay. Users can buy products on the online store.
 
 Technical stack:
@@ -268,4 +268,4 @@ Others
 
 ----
 
-Updated on Jun 27, 2018
+Updated on July 4, 2018
