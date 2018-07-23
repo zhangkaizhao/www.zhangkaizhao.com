@@ -1,5 +1,19 @@
 # Funny
 
-## 2018,06,09
+## 2018-06-09
 
-* http://www.worldhello.net/gotgit/90-app/040-hg-git-face2face.html
+* http://www.worldhello.net/gotgit/90-app/040-hg-git-face2face.html (in Chinese)
+
+## 2018-07-15
+
+* https://www.cnblogs.com/Hybird3D/p/3502910.html (in Chinese)
+
+  谈谈我的windows服务器运维管理
+
+## 2018-07-16
+
+* https://hzpug.github.io/ (in Chinese)
+
+## 2018-07-22
+
+* http://air.googol.im/post/rust-view-from-a-gopher/ (in Chinese)
