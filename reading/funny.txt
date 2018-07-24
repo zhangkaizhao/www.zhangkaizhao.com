@@ -31,3 +31,7 @@
 ## 2018-07-22
 
 * http://air.googol.im/post/rust-view-from-a-gopher/ (in Chinese)
+
+## 2018-07-23
+
+* http://lepture.com/en/2018/structure-of-a-flask-project
