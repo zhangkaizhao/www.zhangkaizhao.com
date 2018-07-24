@@ -4,11 +4,25 @@
 
 * http://www.worldhello.net/gotgit/90-app/040-hg-git-face2face.html (in Chinese)
 
+## 2018-06-29
+
+* https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript
+
+## 2018-07-04
+
+* https://lethain.com/digg-v4/
+
+  via https://www.v2ex.com/t/467817
+
+## 2018-07-05
+
+* https://realpython.com/python37-new-features/
+
 ## 2018-07-15
 
 * https://www.cnblogs.com/Hybird3D/p/3502910.html (in Chinese)
 
-  谈谈我的windows服务器运维管理
+  Experience on operations management of Windows server
 
 ## 2018-07-16
 
