@@ -35,3 +35,17 @@
 ## 2018-07-23
 
 * http://lepture.com/en/2018/structure-of-a-flask-project
+
+## 2018-07-25
+
+* https://holbrook.github.io/2017/10/25/cloud_computing.html (in Chinese)
+
+## 2018-07-26
+
+* https://www.kawabangga.com/posts/2302 (in Chinese)
+
+  Understanding the attributes of object and descriptors in Python
+
+## 2018-07-27
+
+* https://juicefs.io/blog/cn/distributed-filesystem-comparison/ (in Chinese)
