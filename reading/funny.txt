@@ -49,3 +49,13 @@
 ## 2018-07-27
 
 * https://juicefs.io/blog/cn/distributed-filesystem-comparison/ (in Chinese)
+
+## 2018-08-01
+
+* https://zhuanlan.zhihu.com/p/19847009 (in Chinese)
+
+  Talk about the "Russian doll" caching
+
+* https://zhuanlan.zhihu.com/p/26031654 (in Chinese)
+
+  Tower team's 48 months remote work practice
