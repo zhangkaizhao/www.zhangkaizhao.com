@@ -59,3 +59,9 @@
 * https://zhuanlan.zhihu.com/p/26031654 (in Chinese)
 
   Tower team's 48 months remote work practice
+
+## 2018-08-03
+
+* https://ds9a.nl/articles/posts/cpp-rust-go/
+
+  Should C Programmers learn C++, Go or Rust?
