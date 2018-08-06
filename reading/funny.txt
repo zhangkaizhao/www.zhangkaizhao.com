@@ -65,3 +65,7 @@
 * https://ds9a.nl/articles/posts/cpp-rust-go/
 
   Should C Programmers learn C++, Go or Rust?
+
+## 2018-08-05
+
+* https://fgimian.github.io/blog/2018/06/06/why-crystal-is-my-next-language/
