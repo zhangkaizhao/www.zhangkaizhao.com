@@ -89,16 +89,36 @@
             <ul>
               <li>
                 Resume in English:
-                <a href="/resume/zhangkaizhao-resume-en.txt"
+                <a href="/resume/zhangkaizhao-resume-en.txt.encoded.txt"
                   >Plain text(reStructuredText format)</a>
-                <a href="/resume/zhangkaizhao-resume-en.pdf">PDF</a>
+                <a href="/resume/zhangkaizhao-resume-en.pdf.encoded.txt">PDF</a>
               </li>
               <li>
                 Resume in Chinese:
-                <a href="/resume/zhangkaizhao-resume-zh.txt"
+                <a href="/resume/zhangkaizhao-resume-zh.txt.encoded.txt"
                   >Plain text(reStructuredText format)</a>
-                <a href="/resume/zhangkaizhao-resume-zh.pdf">PDF</a>
+                <a href="/resume/zhangkaizhao-resume-zh.pdf.encoded.txt">PDF</a>
               </li>
+            </ul>
+            <div class="hint">
+              <p>Resume files are encoded in base64. Please download and decode them by yourself.</p>
+              <p>Sample Python code to decode them:</p>
+              <pre><code>
+import base64
+
+with open(downloaded_filepath, 'rb') as f:
+    content = f.read()
+
+unwrapped_content = b''.join(content.split(b'\r\n'))
+decoded_content = base64.b64decode(unwrapped_content)
+
+with open(output_filepath, 'wb') as f:
+    f.write(decoded_content)
+              </code></pre>
+              <p>Please take a look at
+              <a href="/resume/encoding.py">encoding.py</a> to find out how they are encoded.</p>
+            </div>
+            <ul>
               <li>
                 LinkedIn:
                 <a class="external" target="_blank"
@@ -109,18 +129,27 @@
           </div>
           <div class="section">
             <h4>Others</h4>
-            <p>See: <a href="past.en.html">Past</a> (Coming soon...)</p>
+            <p>(Coming soon...)</p>
           </div>
           <div class="section">
             <h4>Contact</h4>
             <ul>
               <li>
                 <span>Email:</span>
-                <a href="mailto:zhangkaizhao@gmail.com">zhangkaizhao at gmail dot com</a>
+                <a>emhhbmdrYWl6aGFvQGdtYWlsLmNvbQ==</a>
                 or
-                <a href="mailto:whycrying@qq.com">whycrying at qq dot com</a>
+                <a>d2h5Y3J5aW5nQHFxLmNvbQ==</a>
               </li>
             </ul>
+            <div class="hint">
+              <p>Emails are encoded in base64. Please decode them by yourself.</p>
+              <p>Sample Python code to decode them:</p>
+              <pre><code>
+import base64
+base64.b64decode(b'emhhbmdrYWl6aGFvQGdtYWlsLmNvbQ==').decode('utf-8')
+base64.b64decode(b'd2h5Y3J5aW5nQHFxLmNvbQ==').decode('utf-8')
+              </code></pre>
+            </div>
           </div>
         </div>
         <div id="footer">

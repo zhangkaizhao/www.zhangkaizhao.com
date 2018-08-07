@@ -89,16 +89,35 @@
             <ul>
               <li>
                 英文简历:
-                <a href="/resume/zhangkaizhao-resume-en.txt"
+                <a href="/resume/zhangkaizhao-resume-en.txt.encoded.txt"
                   >纯文本（reStructuredText 格式）</a>
-                <a href="/resume/zhangkaizhao-resume-en.pdf">PDF</a>
+                <a href="/resume/zhangkaizhao-resume-en.pdf.encoded.txt">PDF</a>
               </li>
               <li>
                 中文简历:
-                <a href="/resume/zhangkaizhao-resume-zh.txt"
+                <a href="/resume/zhangkaizhao-resume-zh.txt.encoded.txt"
                   >纯文本（reStructuredText 格式）</a>
-                <a href="/resume/zhangkaizhao-resume-zh.pdf">PDF</a>
+                <a href="/resume/zhangkaizhao-resume-zh.pdf.encoded.txt">PDF</a>
               </li>
+            </ul>
+            <div class="hint">
+              <p>简历文件经过了 base64 编码，请下载后自行解码。</p>
+              <p>比如使用 Python 代码解码简历文件：</p>
+              <pre><code>
+import base64
+
+with open(downloaded_filepath, 'rb') as f:
+    content = f.read()
+
+unwrapped_content = b''.join(content.split(b'\r\n'))
+decoded_content = base64.b64decode(unwrapped_content)
+
+with open(output_filepath, 'wb') as f:
+    f.write(decoded_content)
+              </code></pre>
+              <p>如需了解这些简历文件是如何编码生成的，请查阅 <a href="/resume/encoding.py">encoding.py</a> 。</p>
+            </div>
+            <ul>
               <li>
                 领英:
                 <a class="external" target="_blank"
@@ -109,18 +128,27 @@
           </div>
           <div class="section">
             <h4>其他</h4>
-            <p>请看：<a href="past.zh.html">过去</a>（很快到来……）</p>
+            <p>（很快到来……）</p>
           </div>
           <div class="section">
             <h4>联系</h4>
             <ul>
               <li>
                 <span>电子邮件:</span>
-                <a href="mailto:zhangkaizhao@gmail.com">zhangkaizhao at gmail dot com</a>
+                <a>emhhbmdrYWl6aGFvQGdtYWlsLmNvbQ==</a>
                 或者
-                <a href="mailto:whycrying@qq.com">whycrying at qq dot com</a>
+                <a>d2h5Y3J5aW5nQHFxLmNvbQ==</a>
               </li>
             </ul>
+            <div class="hint">
+              <p>电子邮件地址经过了 base64 编码，请自行解码。</p>
+              <p>比如使用 Python 代码解码：</p>
+              <pre><code>
+import base64
+base64.b64decode(b'emhhbmdrYWl6aGFvQGdtYWlsLmNvbQ==').decode('utf-8')
+base64.b64decode(b'd2h5Y3J5aW5nQHFxLmNvbQ==').decode('utf-8')
+              </code></pre>
+            </div>
           </div>
         </div>
         <div id="footer">
