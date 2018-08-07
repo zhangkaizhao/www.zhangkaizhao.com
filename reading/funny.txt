@@ -69,3 +69,11 @@
 ## 2018-08-05
 
 * https://fgimian.github.io/blog/2018/06/06/why-crystal-is-my-next-language/
+
+## 2018-08-06
+
+* https://mp.weixin.qq.com/s?__biz=MzAwMDU1MTE1OQ==&mid=405037902&idx=1&sn=97d9af490eefc5d6158cb6b6a70f67e5 (in Chinese)
+
+  Introduction, key techniques and practical experience of Rust language
+
+  via http://it.dataguru.cn/article-9100-1.html
