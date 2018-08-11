@@ -77,3 +77,9 @@
   Introduction, key techniques and practical experience of Rust language
 
   via http://it.dataguru.cn/article-9100-1.html
+
+## 2018-08-10
+
+* https://adambard.com/blog/implementing-multimethods-in-python/
+
+  https://gist.github.com/adambard/6bf15282874ca89404f7
