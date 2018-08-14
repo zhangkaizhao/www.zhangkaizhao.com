@@ -83,3 +83,33 @@
 * https://adambard.com/blog/implementing-multimethods-in-python/
 
   https://gist.github.com/adambard/6bf15282874ca89404f7
+
+## 2018-08-11
+
+* https://blog.discordapp.com/how-discord-stores-billions-of-messages-7fa6ec7ee4c7
+
+## 2018-08-12
+
+* https://blog.subnetzero.io/
+* https://fulmicoton.com/
+
+* https://www.amethyst.rs/
+* http://ggez.rs/
+
+* https://gpp.tkchu.me/ (in Chinese)
+
+  https://github.com/tkchu/Game-Programming-Patterns-CN (in Chinese)
+
+* https://github.com/songtianyi/songtianyi.github.io (in Chinese)
+
+* https://iovxw.net/ (in Chinese)
+
+## 2018-08-13
+
+* https://bsdelf.github.io/posts/freebsd-brief-user-guide (in Chinese)
+
+* https://arp242.net/weblog/yaml_probably_not_so_great_after_all.html
+
+  * https://github.com/cblp/yaml-sucks
+
+  * https://github.com/crdoconnor/strictyaml
