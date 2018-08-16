@@ -113,3 +113,27 @@
   * https://github.com/cblp/yaml-sucks
 
   * https://github.com/crdoconnor/strictyaml
+
+## 2018-08-15
+
+* https://www.lanindex.com/twitter-snowflake%EF%BC%8C64%E4%BD%8D%E8%87%AA%E5%A2%9Eid%E7%AE%97%E6%B3%95%E8%AF%A6%E8%A7%A3/ (in Chinese)
+
+  Twitter-Snowflake, 64-bit self-incrementing ID algorithm
+
+* https://www.cnblogs.com/relucent/p/4955340.html (in Chinese)
+
+  Twitter's distributed self-incrementing ID algorithm snowflake (Java version)
+
+* https://segmentfault.com/a/1190000014767902 (in Chinese)
+
+  Twitter Snowflake in Go language
+
+  https://github.com/holdno/snowFlakeByGo
+
+## 2018-08-16
+
+* https://darktea.github.io/notes/2013/12/08/Unique-ID (in Chinese)
+
+* https://github.com/koblas/pysnowflake
+
+* https://darktea.github.io/notes/2014/04/12/Bash-Notes.html (in Chinese)
