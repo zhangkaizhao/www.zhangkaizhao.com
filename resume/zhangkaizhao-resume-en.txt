@@ -33,7 +33,7 @@ Working as back-end developer/leader of Safe Family project.
 
 Technical stack: Python, Tornado, Cassandra, etc.
 
-.. hint:: Intel Security was departed from Intel since April 2017 as new McAfee. The contract was ended on April 3, 2017. Then I kept in the new McAfee until May 26, 2017.
+*Note: Intel Security was departed from Intel since April 2017 as new McAfee. The contract was ended on April 3, 2017. Then I kept in the new McAfee until May 26, 2017.*
 
 Software Development Engineer at Guangzhou Qilekang Inc.
 --------------------------------------------------------
