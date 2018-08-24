@@ -137,3 +137,9 @@
 * https://github.com/koblas/pysnowflake
 
 * https://darktea.github.io/notes/2014/04/12/Bash-Notes.html (in Chinese)
+
+## 2018-08-24
+
+* http://tinyclouds.org/jsconf2018.pdf
+
+  via https://www.reddit.com/r/rust/comments/99qd2s/deno_a_typescript_runtime_has_been_rewritten_in/
