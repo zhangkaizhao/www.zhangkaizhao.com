@@ -143,3 +143,11 @@
 * http://tinyclouds.org/jsconf2018.pdf
 
   via https://www.reddit.com/r/rust/comments/99qd2s/deno_a_typescript_runtime_has_been_rewritten_in/
+
+## 2018-08-27
+
+* https://getgood.at/crystal/in-a-day
+
+  via https://twitter.com/sdogruyol/status/1032976069752700929
+
+  one of the issues: https://github.com/zhangkaizhao/tips/commit/5780d4a06619f9f8e8292738763aeb9bea577b99
