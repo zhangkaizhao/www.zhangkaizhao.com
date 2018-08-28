@@ -151,3 +151,15 @@
   via https://twitter.com/sdogruyol/status/1032976069752700929
 
   one of the issues: https://github.com/zhangkaizhao/tips/commit/5780d4a06619f9f8e8292738763aeb9bea577b99
+
+## 2018-08-28
+
+* https://pythoncapi.readthedocs.io/
+
+  via https://twitter.com/VictorStinner/status/1033484627174989824
+
+  why: Keeping Python competitive https://lwn.net/Articles/723752/#723949
+
+  PEP draft: https://mail.python.org/pipermail/python-ideas/2017-July/046399.html
+
+  blog post: https://vstinner.github.io/new-python-c-api.html
