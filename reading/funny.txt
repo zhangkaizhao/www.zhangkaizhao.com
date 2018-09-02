@@ -163,3 +163,11 @@
   PEP draft: https://mail.python.org/pipermail/python-ideas/2017-July/046399.html
 
   blog post: https://vstinner.github.io/new-python-c-api.html
+
+## 2018-08-30
+
+* https://redislabs.com/resources/redis-watch-archive/
+
+  https://github.com/RedisLabs/redis-watch
+
+* https://blog.codeship.com/elixir-ets-vs-redis/
