@@ -171,3 +171,17 @@
   https://github.com/RedisLabs/redis-watch
 
 * https://blog.codeship.com/elixir-ets-vs-redis/
+
+## 2018-09-11
+
+* https://www.bilibili.com/video/av30066131 (in Chinese)
+
+  video: Into Rust (1) - Why you should use Rust language?
+
+  https://github.com/nikomatsakis/intorust
+
+* https://www.jianshu.com/p/1a4b420e4176 (in Chinese)
+
+  Building a Binary Tree with Enumerable
+
+  Original: https://www.mikeperham.com/2014/11/26/building-a-binary-tree-with-enumerable/ (in English)
