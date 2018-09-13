@@ -185,3 +185,19 @@
   Building a Binary Tree with Enumerable
 
   Original: https://www.mikeperham.com/2014/11/26/building-a-binary-tree-with-enumerable/ (in English)
+
+## 2018-09-12
+
+* https://github.com/skywind3000/ECDICT (in Chinese)
+
+  Free English to Chinese Dictionary Database.
+
+## 2018-09-13
+
+* https://www.makeareadme.com/
+
+  https://github.com/dguo/make-a-readme
+
+* https://zhuanlan.zhihu.com/p/38968012 (in Chinese)
+
+  In-depth explanation of Event Sourcing and CQRS
