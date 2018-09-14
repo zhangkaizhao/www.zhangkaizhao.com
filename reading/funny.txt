@@ -201,3 +201,11 @@
 * https://zhuanlan.zhihu.com/p/38968012 (in Chinese)
 
   In-depth explanation of Event Sourcing and CQRS
+
+## 2018-09-14
+
+* https://www.youtube.com/watch?v=aKLntZcp27M
+
+  RustConf 2018 - Closing Keynote - Using Rust For Game Development by Catherine West
+
+  Slides at https://www.dropbox.com/s/yphqy57kwe7nsdj/rustconf-talk.pdf
