@@ -209,3 +209,7 @@
   RustConf 2018 - Closing Keynote - Using Rust For Game Development by Catherine West
 
   Slides at https://www.dropbox.com/s/yphqy57kwe7nsdj/rustconf-talk.pdf
+
+## 2018-09-15
+
+* https://blog.ryanlevick.com/posts/rust-pass-value-or-reference/
