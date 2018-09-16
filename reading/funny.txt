@@ -213,3 +213,15 @@
 ## 2018-09-15
 
 * https://blog.ryanlevick.com/posts/rust-pass-value-or-reference/
+
+## 2018-09-16
+
+* https://github.com/steveklabnik/rust-in-ten-slides
+
+  https://steveklabnik.github.io/rust-in-ten-slides/
+
+* https://zhuanlan.zhihu.com/p/44657202 (in Chinese)
+
+  The right way to develop game in Rust
+
+  This is a summary and personal thoughts after reading https://kyren.github.io/2018/09/14/rustconf-talk.html
