@@ -225,3 +225,11 @@
   The right way to develop game in Rust
 
   This is a summary and personal thoughts after reading https://kyren.github.io/2018/09/14/rustconf-talk.html
+
+## 2018-09-18
+
+* http://andrewdotni.ch/presentations/crystal-roro-aug-2016/
+
+  via http://andrewdotni.ch/blog/2016/10/01/tech-talk-crystal-for-ruby-developers/
+
+* https://kyren.github.io/2018/09/14/rustconf-talk.html
