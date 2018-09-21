@@ -239,3 +239,11 @@
 * http://dtrace.org/blogs/bmc/2018/09/18/falling-in-love-with-rust/
 
 * https://lepture.com/zh/2018/oauth2-intro (in Chinese)
+
+## 2018-09-21
+
+* http://www.rust-compare.com/
+
+  https://github.com/wspeirs/rust-compare
+
+* http://www.infoq.com/cn/articles/api-gateway-architecture-design
