@@ -247,3 +247,7 @@
   https://github.com/wspeirs/rust-compare
 
 * http://www.infoq.com/cn/articles/api-gateway-architecture-design
+
+## 2018-09-23
+
+* https://totallywearingpants.com/posts/nim-underdog/
