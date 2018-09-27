@@ -246,7 +246,7 @@
 
   https://github.com/wspeirs/rust-compare
 
-* http://www.infoq.com/cn/articles/api-gateway-architecture-design
+* http://www.infoq.com/cn/articles/api-gateway-architecture-design (in Chinese)
 
 ## 2018-09-23
 
@@ -267,3 +267,13 @@
 * http://www.emoji-cheat-sheet.com/
 
   https://github.com/WebpageFX/emoji-cheat-sheet.com
+
+## 2018-09-26
+
+* https://sdevprog.blogspot.com/2018/04/overview-of-efficient-programming.html
+
+  https://goo.gl/tMKXy2
+
+* https://zhuanlan.zhihu.com/p/25105771 (in Chinese)
+
+  Bayes's theorem
