@@ -283,3 +283,15 @@
 * https://www.keakon.net/2018/07/13/key%20/%20value%20%E6%95%B0%E6%8D%AE%E5%BA%93%E7%9A%84%E9%80%89%E5%9E%8B (in Chinese)
 
   key/value database selection
+
+## 2018-09-28
+
+* https://www.viva64.com/en/b/0324/
+
+  Criticizing the Rust Language, and Why C/C++ Will Never Die
+
+  Chinese translation: https://github.com/ScottHuangZL/Rust-Articles-Translation/blob/master/Criticizing%20the%20Rust%20Language%2C%20and%20Why%20C_C%2B%2B%20Will%20Never%20Die.md
+
+  And more translations see the GitBook as below.
+
+* https://www.gitbook.com/book/scotthuang_hzl/rust_articles (in Chinese)
