@@ -295,3 +295,9 @@
   And more translations see the GitBook as below.
 
 * https://www.gitbook.com/book/scotthuang_hzl/rust_articles (in Chinese)
+
+## 2018-10-01
+
+* https://www.vincentprouillet.com/blog/overview-package-management-python/
+
+  An overview of package management in Python in 2018
