@@ -301,3 +301,9 @@
 * https://www.vincentprouillet.com/blog/overview-package-management-python/
 
   An overview of package management in Python in 2018
+
+## 2018-10-03
+
+* https://www.vincentprouillet.com/blog/happy-with-frontend-setup/
+
+  My current frontend setup is pretty neat
