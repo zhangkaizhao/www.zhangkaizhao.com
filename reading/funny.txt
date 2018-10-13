@@ -317,3 +317,9 @@
 ## 2018-10-12
 
 * https://www.snoyman.com/blog/2018/10/raii-better-than-bracket-pattern
+
+## 2018-10-13
+
+* https://jsdelfino.blogspot.com/2009/11/simpler-than-json.html
+
+* https://draveness.me/graphql-microservice (in Chinese)
