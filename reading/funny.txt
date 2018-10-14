@@ -323,3 +323,9 @@
 * https://jsdelfino.blogspot.com/2009/11/simpler-than-json.html
 
 * https://draveness.me/graphql-microservice (in Chinese)
+
+## 2018-10-14
+
+* https://draveness.me/mvx (in Chinese)
+
+  Talk about MVC, MVP and MVVM architecture patterns
