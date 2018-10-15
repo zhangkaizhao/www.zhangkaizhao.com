@@ -329,3 +329,11 @@
 * https://draveness.me/mvx (in Chinese)
 
   Talk about MVC, MVP and MVVM architectural patterns
+
+## 2018-10-15
+
+* https://noelsaga.herokuapp.com/blog/2015/07/06/jsonp-jie-shao/ (in Chinese)
+
+  Introduction of JSONP
+
+* https://fleurer.github.io/2015/04/22/isolation-levels/ (in Chinese)
