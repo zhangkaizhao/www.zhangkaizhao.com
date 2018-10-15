@@ -328,4 +328,4 @@
 
 * https://draveness.me/mvx (in Chinese)
 
-  Talk about MVC, MVP and MVVM architecture patterns
+  Talk about MVC, MVP and MVVM architectural patterns
