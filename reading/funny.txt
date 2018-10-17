@@ -337,3 +337,7 @@
   Introduction of JSONP
 
 * https://fleurer.github.io/2015/04/22/isolation-levels/ (in Chinese)
+
+## 2018-10-16
+
+* https://www.mikeperham.com/2018/10/12/testing-rubys-cgi/
