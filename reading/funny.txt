@@ -341,3 +341,7 @@
 ## 2018-10-16
 
 * https://www.mikeperham.com/2018/10/12/testing-rubys-cgi/
+
+## 2018-10-19
+
+* https://www.mikeperham.com/2015/01/05/cgi-rubys-bare-metal/
