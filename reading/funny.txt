@@ -345,3 +345,7 @@
 ## 2018-10-19
 
 * https://www.mikeperham.com/2015/01/05/cgi-rubys-bare-metal/
+
+## 2018-10-28
+
+* https://andre.arko.net/2013/09/11/vim-is-the-worst-editor/
