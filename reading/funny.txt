@@ -349,3 +349,19 @@
 ## 2018-10-28
 
 * https://andre.arko.net/2013/09/11/vim-is-the-worst-editor/
+
+## 2018-10-31
+
+* Zoombie process, Orphan process, and Daemon (in Chinese)
+
+  * https://zh.wikipedia.org/wiki/%E5%83%B5%E5%B0%B8%E8%BF%9B%E7%A8%8B
+  * https://zh.wikipedia.org/wiki/%E5%AD%A4%E5%84%BF%E8%BF%9B%E7%A8%8B
+  * https://zh.wikipedia.org/wiki/%E5%AE%88%E6%8A%A4%E8%BF%9B%E7%A8%8B
+
+* https://www.cnblogs.com/Anker/p/3271773.html (in Chinese)
+
+  Orphan process and Zoombie process
+
+* https://www.cnblogs.com/yuxc/archive/2012/11/04/2753391.html (in Chinese)
+
+  How to clear zoombie processes in Linux environment
