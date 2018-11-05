@@ -365,3 +365,13 @@
 * https://www.cnblogs.com/yuxc/archive/2012/11/04/2753391.html (in Chinese)
 
   How to clear zoombie processes in Linux environment
+
+## 2018-11-04
+
+* https://www.c0ffee.net/blog/openbsd-on-a-laptop/
+
+* https://floooh.github.io/2018/06/02/one-year-of-c.html
+
+## 2018-11-05
+
+* https://xinhuang.github.io/posts/2017-07-31-common-mistakes-using-python3-asyncio.html
