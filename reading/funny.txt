@@ -375,3 +375,7 @@
 ## 2018-11-05
 
 * https://xinhuang.github.io/posts/2017-07-31-common-mistakes-using-python3-asyncio.html
+
+## 2018-11-06
+
+* https://chloerei.com/2015/10/26/testing-guide/
