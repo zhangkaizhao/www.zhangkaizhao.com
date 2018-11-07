@@ -378,4 +378,4 @@
 
 ## 2018-11-06
 
-* https://chloerei.com/2015/10/26/testing-guide/
+* https://chloerei.com/2015/10/26/testing-guide/ (in Chinese)
