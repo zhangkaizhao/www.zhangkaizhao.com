@@ -379,3 +379,17 @@
 ## 2018-11-06
 
 * https://chloerei.com/2015/10/26/testing-guide/ (in Chinese)
+
+## 2018-11-11
+
+* https://speakerdeck.com/madao/component-based-rails-application-mo-kuai-hua-de-rails-wei-fu-wu-yi-wai-de-ling-chong-xuan-ze (in Chinese)
+
+  via https://ruby-china.org/topics/37643 (in Chinese)
+
+* https://www.python.org/dev/peps/pep-0544/
+
+  PEP 544 -- Protocols: Structural subtyping (static duck typing)
+
+  via https://github.com/Stewori/pytypes
+
+  via https://github.com/dropbox/pyannotate/issues/38
