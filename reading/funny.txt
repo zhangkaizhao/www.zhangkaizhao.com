@@ -393,3 +393,7 @@
   via https://github.com/Stewori/pytypes
 
   via https://github.com/dropbox/pyannotate/issues/38
+
+## 2018-11-12
+
+* https://speakerdeck.com/lemiorhan/10-git-anti-patterns-you-should-be-aware-of
