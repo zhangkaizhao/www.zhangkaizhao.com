@@ -397,3 +397,9 @@
 ## 2018-11-12
 
 * https://speakerdeck.com/lemiorhan/10-git-anti-patterns-you-should-be-aware-of
+
+## 2018-11-19
+
+* https://easyaspi314.github.io/gcc-vs-clang.html
+
+* https://speakerdeck.com/janko_m/dynamic-routing-in-ruby
