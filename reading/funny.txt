@@ -403,3 +403,11 @@
 * https://easyaspi314.github.io/gcc-vs-clang.html
 
 * https://speakerdeck.com/janko_m/dynamic-routing-in-ruby
+
+## 2018-11-20
+
+* https://www.python.org/dev/peps/pep-3106/
+
+  PEP 3106 -- Revamping dict.keys(), .values() and .items()
+
+  via https://twitter.com/1st1/status/1064572563509121024
