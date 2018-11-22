@@ -417,3 +417,7 @@
 * https://techiedelight.quora.com/500-Data-Structures-and-Algorithms-interview-questions-and-their-solutions
 
   via https://github.com/ZhangHanDong/interview_500 (in Chinese)
+
+## 2018-11-22
+
+* https://www.slideshare.net/ichitonagata/how-happy-they-became-with-h2omruby-and-the-future-of-http
