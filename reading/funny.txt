@@ -411,3 +411,9 @@
   PEP 3106 -- Revamping dict.keys(), .values() and .items()
 
   via https://twitter.com/1st1/status/1064572563509121024
+
+## 2018-11-21
+
+* https://techiedelight.quora.com/500-Data-Structures-and-Algorithms-interview-questions-and-their-solutions
+
+  via https://github.com/ZhangHanDong/interview_500 (in Chinese)
