@@ -421,3 +421,7 @@
 ## 2018-11-22
 
 * https://www.slideshare.net/ichitonagata/how-happy-they-became-with-h2omruby-and-the-future-of-http
+
+## 2018-11-24
+
+* http://mlwiki.org/index.php/Enterprise_System_Architecture
