@@ -425,3 +425,11 @@
 ## 2018-11-24
 
 * http://mlwiki.org/index.php/Enterprise_System_Architecture
+
+## 2018-11-26
+
+* https://sr.ht/
+
+  via https://drewdevault.com/2018/11/15/sr.ht-general-availability.html
+
+  via https://www.dragonflydigest.com/2018/11/25/22106.html
