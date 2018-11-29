@@ -433,3 +433,9 @@
   via https://drewdevault.com/2018/11/15/sr.ht-general-availability.html
 
   via https://www.dragonflydigest.com/2018/11/25/22106.html
+
+## 2018-11-29
+
+* https://www.fpcomplete.com/blog/2018/11/haskell-and-rust
+
+* https://draveness.me/distributed-transaction-principle (in Chinese)
