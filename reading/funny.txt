@@ -439,3 +439,7 @@
 * https://www.fpcomplete.com/blog/2018/11/haskell-and-rust
 
 * https://draveness.me/distributed-transaction-principle (in Chinese)
+
+## 2018-11-30
+
+* https://draveness.me/mysql-transaction (in Chinese)
