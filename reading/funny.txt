@@ -449,3 +449,9 @@
 * https://blogs.oracle.com/developers/building-a-container-runtime-in-rust
 
 * https://www.weave.works/blog/linux-namespaces-and-go-don-t-mix
+
+## 2018-12-10
+
+* https://media.ccc.de/v/rustfest-rome-5-declarative-programming-in-rust (video)
+
+  via https://t.me/rust_daily_news/1951 (in Chinese)
