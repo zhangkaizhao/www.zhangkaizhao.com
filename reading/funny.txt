@@ -455,3 +455,13 @@
 * https://media.ccc.de/v/rustfest-rome-5-declarative-programming-in-rust (video)
 
   via https://t.me/rust_daily_news/1951 (in Chinese)
+
+## 2018-12-14
+
+* https://medium.com/@sargun/go-concurrency-considered-harmful-26499a422830
+
+## 2018-12-15
+
+* https://www.diogomonica.com/2017/03/27/why-you-shouldnt-use-env-variables-for-secret-data/
+
+  via https://flit.readthedocs.io/en/latest/upload.html
