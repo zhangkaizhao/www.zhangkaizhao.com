@@ -465,3 +465,9 @@
 * https://www.diogomonica.com/2017/03/27/why-you-shouldnt-use-env-variables-for-secret-data/
 
   via https://flit.readthedocs.io/en/latest/upload.html
+
+## 2018-12-16
+
+* https://ferrous-systems.github.io/rustrush-2018-keynote/keynote.html
+
+  The RustRush 2018 "An async story" closing keynote
