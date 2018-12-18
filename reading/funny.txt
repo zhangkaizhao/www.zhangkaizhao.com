@@ -471,3 +471,9 @@
 * https://ferrous-systems.github.io/rustrush-2018-keynote/keynote.html
 
   The RustRush 2018 "An async story" closing keynote
+
+## 2018-12-18
+
+* https://pawelmhm.github.io/asyncio/python/aiohttp/2016/04/22/asyncio-aiohttp.html
+
+  via https://github.com/timofurrer/awesome-asyncio
