@@ -477,3 +477,13 @@
 * https://pawelmhm.github.io/asyncio/python/aiohttp/2016/04/22/asyncio-aiohttp.html
 
   via https://github.com/timofurrer/awesome-asyncio
+
+## 2018-12-19
+
+* https://medium.com/@pgjones/quart-trio-9415d7c1928a
+
+  via https://twitter.com/vorpalsmith/status/1075164844616085505
+
+* https://medium.com/@pgjones/hypercorn-is-now-a-trio-asgi-server-2e198898c08f
+
+* https://pgjones.gitlab.io/hypercorn/dos_mitigations.html
