@@ -54,7 +54,6 @@
 .hint {
   color: gray;
   font-style: italic;
-  padding-left: 2em;
 }
 a.external {
   background: url("/img/external-ltr.png") center right no-repeat;

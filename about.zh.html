@@ -40,14 +40,14 @@
                   >https://github.com/zhangkaizhao</a>
               </li>
               <li>
-                GitHub(old):
+                GitHub (old):
                 <a class="external" target="_blank"
                   href="https://github.com/metalman"
                   >https://github.com/metalman</a>
               </li>
               <!--
               <li>
-                GitHub(experimental):
+                GitHub (experimental):
                 <a class="external" target="_blank"
                   href="https://github.com/wakeofwind"
                   >https://github.com/wakeofwind</a>
@@ -98,12 +98,9 @@
                 <a href="/resume/zhangkaizhao-resume-zh.txt.encoded.txt"
                   >纯文本（reStructuredText 格式）</a>
                 <a href="/resume/zhangkaizhao-resume-zh.pdf.encoded.txt">PDF</a>
-              </li>
-            </ul>
-            <div class="hint">
-              <p>简历文件经过了 base64 编码，请下载后自行解码。</p>
-              <p>比如使用 Python 代码解码简历文件：</p>
-              <pre><code>
+                <div class="hint">
+                  <p>简历文件经过了 base64 编码。解码示例 Python 代码：</p>
+                  <pre><code>
 import base64
 
 with open(downloaded_filepath, 'rb') as f:
@@ -114,12 +111,12 @@ decoded_content = base64.b64decode(unwrapped_content)
 
 with open(output_filepath, 'wb') as f:
     f.write(decoded_content)
-              </code></pre>
-              <p>如需了解这些简历文件是如何编码生成的，请查阅 <a href="/resume/encoding.py">encoding.py</a> 。
-              <br>
-              注：运行这个脚本需要的 Python 版本至少是 3.6 。</p>
-            </div>
-            <ul>
+                  </code></pre>
+                  <p>如需了解这些简历文件是如何生成的，请查阅 <a href="/resume/encoding.py">encoding.py</a>。
+                  <br>
+                  注：运行这个脚本需要的 Python 版本至少是 3.6。</p>
+                </div>
+              </li>
               <li>
                 领英:
                 <a class="external" target="_blank"
@@ -129,28 +126,23 @@ with open(output_filepath, 'wb') as f:
             </ul>
           </div>
           <div class="section">
-            <h4>其他</h4>
-            <p>（很快到来……）</p>
-          </div>
-          <div class="section">
             <h4>联系</h4>
             <ul>
               <li>
                 <span>电子邮件:</span>
-                <a>emhhbmdrYWl6aGFvQGdtYWlsLmNvbQ==</a>
+                <a class="hint">emhhbmdrYWl6aGFvQGdtYWlsLmNvbQ==</a>
                 或者
-                <a>d2h5Y3J5aW5nQHFxLmNvbQ==</a>
-              </li>
-            </ul>
-            <div class="hint">
-              <p>电子邮件地址经过了 base64 编码，请自行解码。</p>
-              <p>比如使用 Python 代码解码：</p>
-              <pre><code>
+                <a class="hint">d2h5Y3J5aW5nQHFxLmNvbQ==</a>
+                <div class="hint">
+                  <p>电子邮件地址经过了 base64 编码。解码示例 Python 代码：</p>
+                  <pre><code>
 import base64
 base64.b64decode(b'emhhbmdrYWl6aGFvQGdtYWlsLmNvbQ==').decode('utf-8')
 base64.b64decode(b'd2h5Y3J5aW5nQHFxLmNvbQ==').decode('utf-8')
-              </code></pre>
-            </div>
+                  </code></pre>
+                </div>
+              </li>
+            </ul>
           </div>
           <div class="section">
             <h4>友情链接</h4>
