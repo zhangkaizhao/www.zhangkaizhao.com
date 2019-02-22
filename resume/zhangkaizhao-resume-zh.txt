@@ -277,7 +277,3 @@ Syncbox
 ----
 
 * Google Omaha: https://github.com/google/omaha
-
-----
-
-最后更新于 2018 年 6 月 27 日

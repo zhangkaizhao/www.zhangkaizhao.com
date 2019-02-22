@@ -265,7 +265,3 @@ Others
 ------
 
 * Google Omaha: https://github.com/google/omaha
-
-----
-
-Updated on July 4, 2018
