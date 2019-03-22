@@ -257,7 +257,7 @@ Syncbox
 个人的
 ------
 
-* 个人站点: https://www.zhangkaizhao.com/
+* GitHub: https://github.com/zhangkaizhao
 * 领英: https://www.linkedin.com/in/zhangkaizhao
 
 工作的

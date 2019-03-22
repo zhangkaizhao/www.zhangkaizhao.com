@@ -245,7 +245,7 @@ Link
 Personal
 --------
 
-* Website: https://www.zhangkaizhao.com/
+* GitHub: https://github.com/zhangkaizhao
 * LinkedIn: https://www.linkedin.com/in/zhangkaizhao
 
 Working
