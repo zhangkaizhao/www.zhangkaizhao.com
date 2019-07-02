@@ -1,0 +1,203 @@
+# Funny
+
+## 2019-01-28
+
+* https://mp.weixin.qq.com/s/2z3rAktRj-4pMmt5b8ASLA (in Chinese)
+
+  I implemented an accurate classification of 12,500 cat and dog images in Python
+
+* https://blog.csdn.net/v_JULY_v/article/details/51812459 (in Chinese)
+
+  CNN notes: popular understanding of convolutional neural networks
+
+## 2019-02-20
+
+* https://github.com/python-trio/trio-talks/tree/master/njsmith-async-concurrency-for-mere-mortals
+
+  via https://trio.discourse.group/t/structured-concurrency-resources/21
+
+  via https://twitter.com/vorpalsmith/status/1094062616752738305
+
+## 2019-02-22
+
+* https://blog.discourse.org/2018/04/effectively-using-discourse-together-with-group-chat/
+
+  via https://discuss.python.org/t/what-about-zulip/197/6
+
+## 2019-02-28
+
+* https://lincode.github.io/Array-Set-Map (in Chinese)
+
+## 2019-03-12
+
+* https://nblumhardt.com/2016/03/exploring-rust/
+
+## 2019-03-14
+
+* https://wyag.thb.lt/
+
+  via https://github.com/danistefanovic/build-your-own-x/issues/339
+
+## 2019-03-20
+
+* https://github.com/ruanyf/document-style-guide (in Chinese)
+
+## 2019-03-26
+
+* https://www.cnblogs.com/btchenguang/archive/2012/09/17/2689146.html (in Chinese)
+
+  Some concepts based on descriptor in Python (Part A)
+
+  https://www.cnblogs.com/btchenguang/archive/2012/09/18/2690802.html (in Chinese)
+
+  Some concepts based on descriptor in Python (Part B)
+
+## 2019-04-07
+
+* https://matthias-endler.de/2017/rust-for-rubyists/
+
+  https://medium.com/the-renaissance-developer/idiomatic-ruby-1b5fa1445098
+
+## 2019-04-13
+
+* https://www.aloxaf.com/2019/03/powershell_miaoa/ (in Chinese)
+
+  PowerShell is wonderful (compared to Bash)
+
+## 2019-04-14
+
+* https://blog.jfo.click/how-zig-do/
+
+## 2019-04-17
+
+* https://dri.es/headless-cms-rest-vs-jsonapi-vs-graphql
+
+## 2019-04-19
+
+* https://philsturgeon.uk/api/2017/01/24/graphql-vs-rest-overview/
+
+## 2019-04-23
+
+* https://medium.com/knerd/eureka-why-you-shouldnt-use-zookeeper-for-service-discovery-4932c5c7e764
+
+  via https://github.com/bilibili/discovery/blob/master/doc/intro.md (in Chinese)
+
+## 2019-04-24
+
+* https://codeblog.jonskeet.uk/2019/03/27/storing-utc-is-not-a-silver-bullet/
+
+  via https://www.dragonflydigest.com/2019/03/31/22707.html
+
+## 2019-05-03
+
+* https://verve.co/engineering/graphql-a-retrospective/
+
+  Discussion on Reddit: https://www.reddit.com/r/graphql/comments/a1kr5b/graphql_a_retrospective/
+
+  Discussion on Hacker News: https://news.ycombinator.com/item?id=18559282
+
+* https://asciidoctor.org/docs/asciidoc-vs-markdown/
+
+  via https://github.com/rubocop-hq/rspec-style-guide/issues/95#issue-438677150
+
+* https://zhuanlan.zhihu.com/p/22825686 (in Chinese)
+
+  Wrapping REST into GraphQL
+
+## 2019-05-06
+
+* https://engineering.wework.com/choosing-a-language-stack-cac3726928f6
+
+## 2019-05-07
+
+* https://dave.cheney.net/2014/10/17/functional-options-for-friendly-apis
+
+## 2019-05-09
+
+* http://www.blakesmith.me/2019/05/07/rust-patterns-enums-instead-of-booleans.html
+
+## 2019-05-10
+
+* https://microservice.guide/
+
+## 2019-05-13
+
+* https://speakerdeck.com/pycon2018/carl-meyer-type-checked-python-in-the-real-world
+
+## 2019-05-15
+
+* https://medium.com/serialized-io/apache-kafka-is-not-for-event-sourcing-81735c3cf5c
+
+  via https://github.com/meilisearch/MeiliES
+
+## 2019-05-17
+
+* https://yourbasic.org/golang/advantages-over-java-python/
+
+## 2019-06-01
+
+* https://developer.okta.com/blog/2019/01/23/nobody-cares-about-oauth-or-openid-connect
+
+## 2019-06-02
+
+* https://lunorian.is/2019/06/01/how-i-parsed-huge-json-files-into-an-sqlite-database-in-under-a-second-using-the-power-of-crystal-language/
+
+  via https://twitter.com/nathanielrsuchy/status/1134829698477957120
+
+## 2019-06-07
+
+* https://articles.life4web.ru/eng/python-black/
+
+  Don't use Black in your team
+
+## 2019-06-12
+
+* https://zhuanlan.zhihu.com/p/48185978 (in Chinese)
+
+  Infinite recursion caused by attribute access
+
+## 2019-06-14
+
+* http://cpprocks.com/cpp-ruby-coffeescript-language-complexity/
+
+* https://blogs.dropbox.com/tech/2016/05/inside-the-magic-pocket/
+
+  via https://github.com/binhnguyennus/awesome-scalability/commit/5109bd4be46aac63f00f3ebdc69369954feef0a1
+
+## 2019-06-15
+
+* https://drewdevault.com/2019/01/30/Why-I-built-sr.ht-with-Flask.html
+
+## 2019-06-17
+
+* https://mamememo.blogspot.com/2019/06/a-brief-history-of-pipeline-operator.html
+
+* http://highscalability.com/blog/2013/8/26/reddit-lessons-learned-from-mistakes-made-scaling-to-1-billi.html
+
+* http://www.aaronsw.com/weblog/rewritingreddit
+
+  via https://www.reddit.com/r/Python/comments/2es819/why_did_reddit_choose_pylons_in_particular/ck2p6qp/
+
+* http://highscalability.com/blog/2013/8/26/reddit-lessons-learned-from-mistakes-made-scaling-to-1-billi.html
+
+  via https://www.reddit.com/r/Python/comments/2es819/why_did_reddit_choose_pylons_in_particular/ck4nhqz/
+
+## 2019-06-24
+
+* https://blogs.dropbox.com/tech/2019/05/how-we-optimized-magic-pocket-for-cold-storage/
+
+## 2019-06-26
+
+* http://bigocheatsheet.com/
+
+  via https://github.com/mtdvio/every-programmer-should-know
+
+* https://www.owasp.org/index.php/Category:OWASP_Top_Ten_Project
+
+  via https://github.com/mtdvio/every-programmer-should-know
+
+## 2019-06-30
+
+* https://medium.com/@jmanrubia/escaping-the-spa-rabbit-hole-with-turbolinks-903f942bf52c
+
+  via https://ruby-china.org/topics/38603#reply-354533
