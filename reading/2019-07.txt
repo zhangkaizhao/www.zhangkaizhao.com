@@ -1,0 +1,35 @@
+# Funny
+
+## 2019-07-03
+
+* https://nelari.us/post/raytracer_with_rust_and_zig/
+
+## 2019-07-16
+
+* https://speakerdeck.com/nbarbettini/api-throwdown-rpc-vs-rest-vs-graphql
+
+## 2019-07-18
+
+* https://www.exploringbinary.com/ten-ways-to-check-if-an-integer-is-a-power-of-two-in-c/
+
+* https://www.oschina.net/translate/rails-vs-django-an-in-depth-technical-comparison (in Chinese)
+
+## 2019-07-24
+
+* https://rushter.com/blog/python-gil-thread-scheduling/
+
+  via https://github.com/zpoint/CPython-Internals
+
+* http://elementsofprogramming.com/
+
+  via https://www.dragonflydigest.com/2019/07/21/23192.html (Elements of Programming is now free.)
+
+## 2019-07-29
+
+* http://llever.com/gentle-intro/pain-points.zh.html (in Chinese)
+
+  Original in English: https://stevedonovan.github.io/rust-gentle-intro/pain-points.html
+
+## 2019-07-31
+
+* https://nbsoftsolutions.com/blog/replacing-elasticsearch-with-rust-and-sqlite
