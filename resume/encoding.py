@@ -3,9 +3,9 @@ import os.path
 from textwrap import wrap
 
 FILES = [
-    'zhangkaizhao-resume-en.txt',
+    'zhangkaizhao-resume-en.rst',
     'zhangkaizhao-resume-en.pdf',
-    'zhangkaizhao-resume-zh.txt',
+    'zhangkaizhao-resume-zh.rst',
     'zhangkaizhao-resume-zh.pdf',
 ]
 LINE_LENGTH = 80
