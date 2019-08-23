@@ -5,8 +5,10 @@ from textwrap import wrap
 FILES = [
     'zhangkaizhao-resume-en.rst',
     'zhangkaizhao-resume-en.pdf',
+    'zhangkaizhao-resume-en.docx',
     'zhangkaizhao-resume-zh.rst',
     'zhangkaizhao-resume-zh.pdf',
+    'zhangkaizhao-resume-zh.docx',
 ]
 LINE_LENGTH = 80
 ENCODED = '.encoded'
