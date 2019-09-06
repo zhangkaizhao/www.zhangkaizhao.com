@@ -1,0 +1,23 @@
+# Funny
+
+## 2019-08-03
+
+* https://matematikaadit.github.io/posts/rust-turbofish.html
+
+  via https://github.com/jplatte/turbo.fish
+
+## 2019-08-08
+
+* https://yafeilee.com/blogs/88 (in Chinese)
+
+  Turbolinks 5 overview and implementation principles
+
+## 2019-08-14
+
+* https://dev.to/gruberb/web-programming-in-rust-02x-deploy-your-first-app-1k05
+
+## 2019-08-27
+
+* https://jensrantil.github.io/post/salt-vs-ansible/
+
+  via https://www.cnblogs.com/huang0925/p/4664608.html (Chinese translation)
