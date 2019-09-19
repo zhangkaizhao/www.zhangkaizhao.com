@@ -7,19 +7,19 @@ Email: zhangkaizhao@gmail.com
 技术
 ====
 
-* **编程语言**：熟悉 Python。了解其他语言 C、Java、JavaScript、Ruby、Go、Rust 等。
-* **网络协议**：熟悉 HTTP/1.1 常用部分。
-* **前端开发**：熟悉 HTML/XHTML，CSS，Ajax 等。了解 SASS、Node.js 等技术。
-* **后端开发**：熟悉 Django、Flask、Tornado、aiohttp、Gunicorn 等 Python 框架/服务器。熟悉 WSGI 协议。了解 uWSGI、Uvicorn 等服务器/容器。了解 ASGI 协议。熟悉 Python 语言标准库及大部分常见第三方库比如 ORM SQLAlchemy、任务队列 Celery 等等。了解其他编程语言的后端开发框架及服务器。
-* **API 设计**：RESTful 实践者。了解 JSON Schema、Swagger/OpenAPI 等。
-* **数据存储**：熟悉 SQLite、Redis、Cassandra 等数据库。了解 MySQL/MariaDB、PostgreSQL、MongoDB 等数据库。
-* **消息队列**：了解 AMQP/RabbitMQ、Redis 的 pubsub 功能。
-* **服务器**：熟悉 Apache、nginx 等。了解 lighttpd、haproxy 等。
-* **系统设计**：熟悉 MVC 软件设计、通过消息队列解偶服务依赖、使用插件机制可配置不同实现等。了解微服务。
-* **开发环境**：熟悉 GNU/Linux（Debian/Ubuntu、Fedora、Arch Linux、Gentoo 等）和 FreeBSD 等。
-* **开发工具**：熟悉 Git、Vim、各种 UNIX 小工具等。熟悉 Supervisor 进程管理系统。了解 Docker 容器虚拟化技术。
-* **云平台**：熟悉 Google AppEngine(Python)。了解 AWS EC2/CloudWatch 等。
-* **开发管理**：熟悉敏捷开发（Scrum）、持续集成（TeamCity）、代码审核（Gerrit、git-review）等。
+* **编程语言**\ ：熟悉 Python。了解其他语言 C、Java、JavaScript、Ruby、Go、Rust 等。
+* **网络协议**\ ：熟悉 HTTP/1.1 常用部分。
+* **前端开发**\ ：熟悉 HTML/XHTML，CSS，Ajax 等。了解 SASS、Node.js 等技术。
+* **后端开发**\ ：熟悉 Django、Flask、Tornado、aiohttp、Gunicorn 等 Python 框架/服务器。熟悉 WSGI 协议。了解 uWSGI、Uvicorn 等服务器/容器。了解 ASGI 协议。熟悉 Python 语言标准库及大部分常见第三方库比如 ORM SQLAlchemy、任务队列 Celery 等等。了解其他编程语言的后端开发框架及服务器。
+* **API 设计**\ ：RESTful 实践者。了解 JSON Schema、Swagger/OpenAPI 等。
+* **数据存储**\ ：熟悉 SQLite、Redis、Cassandra 等数据库。了解 MySQL/MariaDB、PostgreSQL、MongoDB 等数据库。
+* **消息队列**\ ：了解 AMQP/RabbitMQ、Redis 的 pubsub 功能。
+* **服务器**\ ：熟悉 Apache、nginx 等。了解 lighttpd、haproxy 等。
+* **系统设计**\ ：熟悉 MVC 软件设计、通过消息队列解偶服务依赖、使用插件机制可配置不同实现等。了解微服务。
+* **开发环境**\ ：熟悉 GNU/Linux（Debian/Ubuntu、Fedora、Arch Linux、Gentoo 等）和 FreeBSD 等。
+* **开发工具**\ ：熟悉 Git、Vim、各种 UNIX 小工具等。熟悉 Supervisor 进程管理系统。了解 Docker 容器虚拟化技术。
+* **云平台**\ ：熟悉 Google AppEngine(Python)。了解 AWS EC2/CloudWatch 等。
+* **开发管理**\ ：熟悉敏捷开发（Scrum）、持续集成（TeamCity）、代码审核（Gerrit、git-review）等。
 
 工作经历
 ========
@@ -29,14 +29,14 @@ Email: zhangkaizhao@gmail.com
 
 2016-02 至 2017-04，深圳
 
-工作内容：Safe Family 项目的服务器后端 CloudServices 开发（见后面项目描述）。
+Safe Family 项目的服务器后端 CloudServices 开发（见后面项目描述）。
 
 软件开发工程师 - 广州七乐康药业连锁有限公司
 -------------------------------------------
 
 2015-05 至 2015-10，广州
 
-工作内容：隶属广州电商平台开发，Python 开发团队（大白云诊之用药助手项目及其他小项目等）的技术指导和实现。
+隶属广州电商平台开发，Python 开发团队（大白云诊之用药助手项目及其他小项目等）的技术指导和实现。
 
 技术栈：Python、Django、Celery、Whoosh 等。
 
@@ -45,14 +45,12 @@ Email: zhangkaizhao@gmail.com
 
 2014-06 至 2015-01，广州
 
-工作内容：互联网彩票代购系统彩乐透项目的开发（见后面项目描述）。
+互联网彩票代购系统彩乐透项目的开发（见后面项目描述）。
 
 软件开发工程师 - 广州远云网络科技有限公司
 -----------------------------------------
 
 2011-05 至 2014-01，广州
-
-工作内容：
 
 * Syncbox 产品 Web server 后台的开发和维护、Linux 客户端以及相应的 DDNS 服务器端和客户端的开发维护（见后面项目描述）。
 * 路由器产品 WIT-FII 公共网站的架构及实现以及相应的桌面客户端的开发（见后面项目描述）。
@@ -61,8 +59,6 @@ Email: zhangkaizhao@gmail.com
 -----------------------------------------
 
 2010-05 至 2011-05，广州
-
-工作内容：
 
 * 自动升级服务器后台和客户端（基于 Google Omaha 项目）的开发。
 * 文件同步服务端及客户端的原型开发。
@@ -76,8 +72,6 @@ Email: zhangkaizhao@gmail.com
 
 2008-09 至 2009-12，广州
 
-工作内容：
-
 * EveryDo 各产品的开发。
 * 协助产品的部署和运营。
 
@@ -87,8 +81,6 @@ Email: zhangkaizhao@gmail.com
 -----------------------------------
 
 2006-04 至 2008-07，汕头
-
-工作内容：
 
 * 前工序和后工序生产设备的维护维修。
 * 相关配件、夹具的设计和完善。
@@ -103,12 +95,12 @@ Email: zhangkaizhao@gmail.com
 
 时间：2008 至今
 
-* **repos**：本地代码库管理工具。技术栈：Rust。
-* **gnome-shell-extension-tray-icons**：GNOME shell extension - Tray icons。技术栈：GNOME Shell、JavaScript。
-* **supportbot**：简单的问答助手库，基于模糊匹配和全文索引。技术栈：Python、fuzzywuzzy、jieba、Whoosh。
-* **AUR packages**：为 Arch Linux 打包一些不错的新软件程序。技术栈：Arch Linux、Bash 等。
-* **sfss**：大量小文件存储服务，基于豆瓣开源的 Beasdb。技术栈：Python、Beansdb。
-* **magicoding**：基于 Tornado appengine demo 的小博客，运行在 Google AppEngine 上。技术栈：Python、Tornado、Markdown、Google AppEngine 等。
+* **repos**\ ：本地代码库管理工具。技术栈：Rust。
+* **gnome-shell-extension-tray-icons**\ ：GNOME shell extension - Tray icons。技术栈：GNOME Shell、JavaScript。
+* **supportbot**\ ：简单的问答助手库，基于模糊匹配和全文索引。技术栈：Python、fuzzywuzzy、jieba、Whoosh。
+* **AUR packages**\ ：为 Arch Linux 打包一些不错的新软件程序。技术栈：Arch Linux、Bash 等。
+* **sfss**\ ：大量小文件存储服务，基于豆瓣开源的 Beasdb。技术栈：Python、Beansdb。
+* **magicoding**\ ：基于 Tornado appengine demo 的小博客，运行在 Google AppEngine 上。技术栈：Python、Tornado、Markdown、Google AppEngine 等。
 
 更多小项目及详情请见个人网站及 GitHub 代码库（见后面链接）。
 
@@ -172,7 +164,7 @@ Syncbox - 广州远云网络科技有限公司
 
 时间：2011-05 至 2013-06
 
-描述：支持多平台的家庭私有存储服务，包括文件服务器端、版本服务器端、web 服务器端和 DDNS 服务器端，以及用于穿透防火墙的 UPnP 服务器端。其中 web 服务器端包括：与文件服务器端和版本服务器端对接（直接基于 TCP 协议，并使用 Proto Buffers 作为数据交换格式），提供 web 页面供在线浏览及文件操作；提供 web 接口供移动终端客户端使用。而其 DDNS 服务为每台连接到互联网和运行着 Syncbox 服务的设备提供动态域名服务。
+描述：支持多平台的家庭私有存储服务，包括文件服务器端、版本服务器端、web 服务器端和 DDNS 服务器端，以及用于穿透防火墙的 UPnP 服务器端。其中 web 服务器端包括：与文件服务器端和版本服务器端对接（直接基于 TCP 协议，并使用 Protocol Buffers 作为数据交换格式），提供 web 页面供在线浏览及文件操作；提供 web 接口供移动终端客户端使用。而其 DDNS 服务为每台连接到互联网和运行着 Syncbox 服务的设备提供动态域名服务。
 
 工作内容：
 

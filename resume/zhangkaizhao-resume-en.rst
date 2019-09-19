@@ -7,19 +7,19 @@ Email: zhangkaizhao@gmail.com
 Skills
 ======
 
-* **Programming Language**: Familiar with Python. Learn about other languages C, Java, JavaScript, Ruby, Go, Rust, and more.
-* **Network Protocol**: Familiar with the common parts of HTTP/1.1.
-* **Front-end development**: Familiar with HTML/XHTML, CSS, Ajax, etc. Learn about SASS, Node.js and more.
-* **Back-end development**: Familiar with Python frameworks/servers such as Django, Flask, Tornado, aiohttp, Gunicorn. Familiar with the WSGI protocol. Learn about servers/containers like uWSGI, Uvicorn, and more. Learn about the ASGI protocol. Familiar with the Python language standard library and most common third-party libraries such as ORM SQLAlchemy, task queue Celery, and more. Learn about backend development frameworks and servers for other programming languages.
-* **API Design**: RESTful practitioner. Learn about JSON Schema, Swagger/OpenAPI, and more.
-* **Data Storage**: Familiar with databases such as SQLite, Redis, Cassandra. Learn about databases such as MySQL/MariaDB, PostgreSQL, MongoDB.
-* **Message Queue**: Learn about AMQP/RabbitMQ, Redis' pubsub feature.
-* **Server**: Familiar with Apache, nginx, etc. Learn about lighttpd, haproxy, etc.
-* **System Design**: Familiar with MVC software design, decoding service dependencies through message queues, and different implementations using plug-in mechanisms. Learn about microservices.
-* **Development Environment**: Familiar with GNU/Linux (Debian/Ubuntu, Fedora, Arch Linux, Gentoo, etc.) and FreeBSD.
-* **Development Tools**: Familiar with Git, Vim, various UNIX gadgets, etc. Familiar with the Supervisor process management system. Learn about Docker container virtualization technology.
-* **Cloud Platform**: Familiar with Google AppEngine (Python). Learn about AWS EC2/CloudWatch and more.
-* **Development Management**: Familiar with agile development (Scrum), continuous integration (TeamCity), code review (Gerrit, git-review), etc.
+* **Programming Language**\ : Familiar with Python. Learn about other languages C, Java, JavaScript, Ruby, Go, Rust, and more.
+* **Network Protocol**\ : Familiar with the common parts of HTTP/1.1.
+* **Front-end development**\ : Familiar with HTML/XHTML, CSS, Ajax, etc. Learn about SASS, Node.js and more.
+* **Back-end development**\ : Familiar with Python frameworks/servers such as Django, Flask, Tornado, aiohttp, Gunicorn. Familiar with the WSGI protocol. Learn about servers/containers like uWSGI, Uvicorn, and more. Learn about the ASGI protocol. Familiar with the Python language standard library and most common third-party libraries such as ORM SQLAlchemy, task queue Celery, and more. Learn about backend development frameworks and servers for other programming languages.
+* **API Design**\ : RESTful practitioner. Learn about JSON Schema, Swagger/OpenAPI, and more.
+* **Data Storage**\ : Familiar with databases such as SQLite, Redis, Cassandra. Learn about databases such as MySQL/MariaDB, PostgreSQL, MongoDB.
+* **Message Queue**\ : Learn about AMQP/RabbitMQ, Redis' pubsub feature.
+* **Server**\ : Familiar with Apache, nginx, etc. Learn about lighttpd, haproxy, etc.
+* **System Design**\ : Familiar with MVC software design, decoding service dependencies through message queues, and different implementations using plug-in mechanisms. Learn about microservices.
+* **Development Environment**\ : Familiar with GNU/Linux (Debian/Ubuntu, Fedora, Arch Linux, Gentoo, etc.) and FreeBSD.
+* **Development Tools**\ : Familiar with Git, Vim, various UNIX gadgets, etc. Familiar with the Supervisor process management system. Learn about Docker container virtualization technology.
+* **Cloud Platform**\ : Familiar with Google AppEngine (Python). Learn about AWS EC2/CloudWatch and more.
+* **Development Management**\ : Familiar with agile development (Scrum), continuous integration (TeamCity), code review (Gerrit, git-review), etc.
 
 Experience
 ==========
@@ -30,8 +30,6 @@ Software Development Engineer at Intel China Inc.
 February 2016 to April 2017. Shenzhen, Guangdong, China
 
 Working as back-end developer/leader of Safe Family project (see project description below).
-
-Technical stack: Python, Tornado, Cassandra, etc.
 
 Software Development Engineer at Guangzhou Qilekang Inc.
 --------------------------------------------------------
@@ -52,9 +50,7 @@ Working on the development of Cailetou project (see project description below).
 Software Development Engineer at Guangzhou Yuanyun Inc.
 -------------------------------------------------------
 
-May 2011 to January 2014
-
-Location: Guangzhou, Guangdong, China
+May 2011 to January 2014. Guangzhou, Guangdong, China
 
 Working on:
 
@@ -90,9 +86,7 @@ Technical stack: Python, Zope 3, etc.
 Mechanical Engineer at Shantou Goworld Display Inc.
 ---------------------------------------------------
 
-April 2006 to July 2008
-
-Location: Shantou, Guangdong, China
+April 2006 to July 2008. Shantou, Guangdong, China
 
 Working on:
 
@@ -109,12 +103,12 @@ Personal projects
 
 Since 2008.
 
-* **repos**: Local repositories management tool. Technology stack: Rust.
-* **gnome-shell-extension-tray-icons**: GNOME shell extension - Tray icons. Technology stack: GNOME Shell, JavaScript.
-* **supportbot**: A simple Q&A helper library based on fuzzy matching and full-text indexing. Technology stack: Python, fuzzywuzzy, jieba, Whoosh.
-* **AUR packages**: Pack some nice new software programs for Arch Linux. Technology stack: Arch Linux, Bash, etc.
+* **repos**\ : Local repositories management tool. Technology stack: Rust.
+* **gnome-shell-extension-tray-icons**\ : GNOME shell extension - Tray icons. Technology stack: GNOME Shell, JavaScript.
+* **supportbot**\ : A simple Q&A helper library based on fuzzy matching and full-text indexing. Technology stack: Python, fuzzywuzzy, jieba, Whoosh.
+* **AUR packages**\ : Pack some nice new software programs for Arch Linux. Technology stack: Arch Linux, Bash, etc.
 * **sfss**: A large number of small file storage services, based on Douban open source Beasdb project. Technology stack: Python, Beansdb.
-* **magicoding**: A naive blog based on tornado appengine demo and running on Google AppEngine. Technology stack: Python, Tornado, Markdown, Google AppEngine, etc.
+* **magicoding**\ : A naive blog based on tornado appengine demo and running on Google AppEngine. Technology stack: Python, Tornado, Markdown, Google AppEngine, etc.
 
 More personal projects and details can be found on the personal website and the GitHub repositories (see link below).
 
