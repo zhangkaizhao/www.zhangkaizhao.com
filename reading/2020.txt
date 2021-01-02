@@ -1,0 +1,47 @@
+# Funny
+
+## 2020-03-06
+
+* https://nedbatchelder.com/text/test3.html
+
+  Getting Started Testing: pytest edition
+
+  via https://nedbatchelder.com/blog/202002/getting_started_testing_with_pytest.html
+
+## 2020-04-08
+
+* https://www.rubyguides.com/2019/11/what-can-you-do-with-ruby/
+
+## 2020-05-06
+
+* https://blog.logrocket.com/versioning-fields-graphql/
+
+## 2020-05-08
+
+* https://principles.graphql.cn/
+
+  Original in English: https://principledgraphql.com/
+
+## 2020-09-12
+
+* https://blog.tonyseek.com/post/notes-about-ioc-and-di/ (in Chinese)
+
+  Notes about IoC (Inversion of Control) and DI (Dependency Injection)
+
+## 2020-09-13
+
+* https://clwy.cn/guide/documents/stimulus (in Chinese)
+
+  Chinese translation of Stimulus documentation
+
+  via https://ruby-china.org/topics/39911 (in Chinese)
+
+## 2020-12-16
+
+* https://howistart.org/posts/elixir/1/
+
+  How I Start - Elixir
+
+  via http://blog.plataformatec.com.br/2015/06/elixir-in-times-of-microservices/
+
+  via http://www.thinkingincrowd.me/2018/09/19/programming-language-born-for-distributed-environment/ (in Chinese)
