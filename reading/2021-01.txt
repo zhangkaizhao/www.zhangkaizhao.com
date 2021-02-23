@@ -1,0 +1,25 @@
+# Funny
+
+## 2021-01-03
+
+* https://github.com/dpapathanasiou/simple-graph
+
+## 2021-01-08
+
+* https://adamj.eu/tech/2020/10/15/a-single-file-rest-api-in-django/
+
+## 2021-01-18
+
+* https://journal.stuffwithstuff.com/2015/02/01/what-color-is-your-function/
+
+## 2021-01-29
+
+* https://defn.io/2020/06/28/racket-deployment/
+
+## 2021-01-30
+
+* https://forcemz.net/git/2021/01/21/GitGuideForCodeHostingPractitioners/ (in Chinese)
+
+  Git Guide For Code Hosting Practitioners
+
+  posted on zhihu: https://zhuanlan.zhihu.com/p/346920499
